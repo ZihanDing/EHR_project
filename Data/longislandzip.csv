@@ -1,0 +1,221 @@
+zip,type,decommissioned,primary_city,acceptable_cities,unacceptable_cities,state,county,timezone,area_codes,world_region,country,latitude,longitude,irs_estimated_population_2015
+501,UNIQUE,0,Holtsville,,I R S Service Center,NY,Suffolk County,America/New_York,631,NA,US,40.81,-73.04,562
+544,UNIQUE,0,Holtsville,,Irs Service Center,NY,Suffolk County,America/New_York,631,NA,US,40.81,-73.04,0
+6390,PO BOX,0,Fishers Island,Fishers Isle,,NY,Suffolk County,America/New_York,631,NA,US,41.27,-71.99,286
+11001,STANDARD,0,Floral Park,"Bellerose Vil, Bellerose Village, S Floral Park, South Floral Park","Bellerose Terrace, Bellrose Village, So Floral Park",NY,Nassau County,America/New_York,"516,718",NA,US,40.72,-73.7,26970
+11003,STANDARD,0,Elmont,"Alden Manor, Floral Park, Meacham","Argo Village, Locustwood",NY,Nassau County,America/New_York,516,NA,US,40.7,-73.7,44160
+11010,STANDARD,0,Franklin Square,Franklin Sq,,NY,Nassau County,America/New_York,516,NA,US,40.7,-73.67,23400
+11020,STANDARD,0,Great Neck,Lake Success,"Great Nk, Grt Neck, Gt Neck, University Gardens",NY,Nassau County,America/New_York,516,NA,US,40.77,-73.71,6230
+11021,STANDARD,0,Great Neck,"Great Nck Plz, Great Neck Plaza","Allenwood, Great Neck Estates, Kensington, Russell Gardens, Saddle Rock Estates, Thomaston",NY,Nassau County,America/New_York,516,NA,US,40.78,-73.73,17310
+11022,PO BOX,0,Great Neck,,Lake Gardens,NY,Nassau County,America/New_York,516,NA,US,40.8,-73.73,603
+11023,STANDARD,0,Great Neck,,"Harbor Hills, Old Village, Saddle Rock",NY,Nassau County,America/New_York,516,NA,US,40.8,-73.73,8930
+11024,STANDARD,0,Great Neck,Kings Point,"Kenilworth, Usmma",NY,Nassau County,America/New_York,516,NA,US,40.82,-73.74,6710
+11025,UNIQUE,1,Great Neck,,American Express,NY,Nassau County,America/New_York,516,NA,US,40.8,-73.72,0
+11026,PO BOX,0,Great Neck,,,NY,Nassau County,America/New_York,516,NA,US,40.8,-73.73,0
+11027,PO BOX,0,Great Neck,,,NY,Nassau County,America/New_York,516,NA,US,40.8,-73.73,0
+11030,STANDARD,0,Manhasset,Plandome,,NY,Nassau County,America/New_York,516,NA,US,40.79,-73.69,18210
+11040,STANDARD,0,New Hyde Park,"Garden City P, Garden City Park, Hillside Manor, Hillside Mnr, Manhasset Hil, Manhasset Hills, N New Hyde Pk, North Hills, North New Hyde Park","Gdn City Park, Herricks, Lake Success, Lakeville Estates, N H P, No New Hyde Park",NY,Nassau County,America/New_York,516,NA,US,40.73,-73.68,42610
+11041,UNIQUE,1,New Hyde Park,,Visa,NY,Nassau County,America/New_York,516,NA,US,40.73,-73.68,0
+11042,STANDARD,0,New Hyde Park,"N New Hyde Pk, North New Hyde Park",Lake Success,NY,Nassau County,America/New_York,516,NA,US,40.76,-73.7,380
+11043,UNIQUE,1,New Hyde Park,,Independent Elect Of Amer,NY,Nassau County,America/New_York,516,NA,US,40.73,-73.68,0
+11044,UNIQUE,1,New Hyde Park,Eastern States Bkcard Assoc,,NY,Nassau County,America/New_York,516,NA,US,40.73,-73.68,0
+11050,STANDARD,0,Port Washington,"Prt Washingtn, Sands Point","Baxter Estates, Harbor Acres, Manorhaven, Port Wash, Pr Wash, Pr Wshngtn, Pt Wash, The Terrace",NY,Nassau County,America/New_York,516,NA,US,40.82,-73.68,29680
+11051,UNIQUE,0,Port Washington,Prt Washingtn,Publishers Clearing Hse Brm,NY,Nassau County,America/New_York,516,NA,US,40.82,-73.68,0
+11052,UNIQUE,0,Port Washington,Prt Washingtn,Publishers Clear House,NY,Nassau County,America/New_York,516,NA,US,40.82,-73.68,0
+11053,UNIQUE,0,Port Washington,Prt Washingtn,Publishers Clearing House,NY,Nassau County,America/New_York,516,NA,US,40.82,-73.68,0
+11054,UNIQUE,0,Port Washington,Prt Washingtn,Publishers Clearing House,NY,Nassau County,America/New_York,516,NA,US,40.82,-73.68,0
+11055,UNIQUE,0,Port Washington,Prt Washingtn,Publishers Clearing House,NY,Nassau County,America/New_York,516,NA,US,40.82,-73.68,0
+11096,STANDARD,0,Inwood,Far Rockaway,Inwood Finance,NY,Nassau County,America/New_York,"516,718,347,929",NA,US,40.62,-73.75,7670
+11099,UNIQUE,1,New Hyde Park,,Eastern States Bkcard Assoc,NY,Nassau County,America/New_York,516,NA,US,40.73,-73.68,0
+11501,STANDARD,0,Mineola,,,NY,Nassau County,America/New_York,516,NA,US,40.75,-73.64,19150
+11507,STANDARD,0,Albertson,,,NY,Nassau County,America/New_York,"516,718",NA,US,40.77,-73.64,7610
+11509,STANDARD,0,Atlantic Beach,Atlantic Bch,,NY,Nassau County,America/New_York,516,NA,US,40.59,-73.73,2290
+11510,STANDARD,0,Baldwin,"N Baldwin, North Baldwin",Baldwin Harbor,NY,Nassau County,America/New_York,516,NA,US,40.66,-73.61,32870
+11514,STANDARD,0,Carle Place,,,NY,Nassau County,America/New_York,"516,631",NA,US,40.75,-73.61,4590
+11516,STANDARD,0,Cedarhurst,,,NY,Nassau County,America/New_York,516,NA,US,40.63,-73.73,7990
+11518,STANDARD,0,East Rockaway,,E Rockaway,NY,Nassau County,America/New_York,516,NA,US,40.64,-73.66,10240
+11520,STANDARD,0,Freeport,,,NY,Nassau County,America/New_York,516,NA,US,40.65,-73.58,42530
+11530,STANDARD,0,Garden City,"Garden City S, Garden City South, Stewart Manor","Mitchell Field, Roosevelt Field",NY,Nassau County,America/New_York,"631,718,516",NA,US,40.72,-73.64,28860
+11531,PO BOX,0,Garden City,,Roosevelt Field,NY,Nassau County,America/New_York,516,NA,US,40.72,-73.64,176
+11535,UNIQUE,0,Garden City,,Abmps,NY,Nassau County,America/New_York,516,NA,US,40.72,-73.64,0
+11536,UNIQUE,1,Garden City,Select And Save,,NY,Nassau County,America/New_York,516,NA,US,40.67,-73.7,0
+11542,STANDARD,0,Glen Cove,,,NY,Nassau County,America/New_York,516,NA,US,40.86,-73.63,23880
+11545,STANDARD,0,Glen Head,,"Brookville, Muttontown, Old Brookville, Roslyn Harbor, Upper Brookville",NY,Nassau County,America/New_York,516,NA,US,40.84,-73.61,11620
+11547,PO BOX,0,Glenwood Landing,Glenwood Lndg,,NY,Nassau County,America/New_York,516,NA,US,40.83,-73.64,1045
+11548,STANDARD,0,Greenvale,,"Brookville, E Hills, East Hills, Old Brookville, Roslyn Harbor",NY,Nassau County,America/New_York,516,NA,US,40.81,-73.63,1270
+11549,UNIQUE,0,Hempstead,Hofstra Univ,Hoffmeister,NY,Nassau County,America/New_York,516,NA,US,40.72,-73.6,32
+11550,STANDARD,0,Hempstead,"S Hempstead, South Hempstead",,NY,Nassau County,America/New_York,"516,718",NA,US,40.7,-73.61,52300
+11551,PO BOX,0,Hempstead,,,NY,Nassau County,America/New_York,516,NA,US,40.7,-73.61,1239
+11552,STANDARD,0,West Hempstead,W Hempstead,Lakeview,NY,Nassau County,America/New_York,516,NA,US,40.69,-73.65,24880
+11553,STANDARD,0,Uniondale,,Mitchell Field,NY,Nassau County,America/New_York,516,NA,US,40.7,-73.59,25970
+11554,STANDARD,0,East Meadow,,E Meadow,NY,Nassau County,America/New_York,516,NA,US,40.71,-73.55,37020
+11555,UNIQUE,0,Uniondale,,Citibank,NY,Nassau County,America/New_York,516,NA,US,40.7,-73.59,0
+11556,STANDARD,0,Uniondale,,,NY,Nassau County,America/New_York,516,NA,US,40.72,-73.58,14
+11557,STANDARD,0,Hewlett,,"Hewlett Bay, Hewlett Bay Park, Hewlett Harbor",NY,Nassau County,America/New_York,516,NA,US,40.64,-73.69,8080
+11558,STANDARD,0,Island Park,,"Barnum Island, Harbor Island, Harbor Isle",NY,Nassau County,America/New_York,516,NA,US,40.6,-73.64,7560
+11559,STANDARD,0,Lawrence,,Meadowmere Park,NY,Nassau County,America/New_York,"516,718",NA,US,40.6,-73.71,8450
+11560,STANDARD,0,Locust Valley,,"Lattingtown, Matinecock",NY,Nassau County,America/New_York,516,NA,US,40.88,-73.58,6320
+11561,STANDARD,0,Long Beach,"E Atlantc Bch, E Atlantic Beach, East Atlantic Beach, Lido Beach",,NY,Nassau County,America/New_York,516,NA,US,40.59,-73.65,31560
+11563,STANDARD,0,Lynbrook,,,NY,Nassau County,America/New_York,516,NA,US,40.65,-73.67,21470
+11565,STANDARD,0,Malverne,,,NY,Nassau County,America/New_York,516,NA,US,40.67,-73.67,8900
+11566,STANDARD,0,Merrick,"N Merrick, North Merrick",,NY,Nassau County,America/New_York,516,NA,US,40.65,-73.55,35900
+11568,STANDARD,0,Old Westbury,Westbury,,NY,Nassau County,America/New_York,"516,631,718",NA,US,40.78,-73.59,3240
+11569,PO BOX,0,Point Lookout,,Pt Lookout,NY,Nassau County,America/New_York,516,NA,US,40.59,-73.58,1554
+11570,STANDARD,0,Rockville Centre,Rockville Ctr,"Lakeview, Rockville Center, Rvc",NY,Nassau County,America/New_York,516,NA,US,40.66,-73.63,27160
+11571,PO BOX,0,Rockville Centre,Rockville Ctr,"Rockville Center, Rvc",NY,Nassau County,America/New_York,516,NA,US,40.66,-73.63,266
+11572,STANDARD,0,Oceanside,"Rockville Centre, Rockville Ctr","Rockville Center, Rvc",NY,Nassau County,America/New_York,516,NA,US,40.63,-73.63,30290
+11575,STANDARD,0,Roosevelt,,,NY,Nassau County,America/New_York,516,NA,US,40.68,-73.58,16430
+11576,STANDARD,0,Roslyn,,"E Hills, East Hills, Roslyn Estates, Roslyn Harbor",NY,Nassau County,America/New_York,"516,718",NA,US,40.8,-73.65,12540
+11577,STANDARD,0,Roslyn Heights,Roslyn Hts,"E Hills, East Hills",NY,Nassau County,America/New_York,"516,718",NA,US,40.78,-73.64,12260
+11579,STANDARD,0,Sea Cliff,,,NY,Nassau County,America/New_York,516,NA,US,40.84,-73.64,4910
+11580,STANDARD,0,Valley Stream,,"N Valley Stream, North Valley Stream",NY,Nassau County,America/New_York,516,NA,US,40.66,-73.7,41510
+11581,STANDARD,0,Valley Stream,,"N Woodmere, North Woodmere",NY,Nassau County,America/New_York,516,NA,US,40.65,-73.72,21490
+11582,PO BOX,0,Valley Stream,,,NY,Nassau County,America/New_York,516,NA,US,40.66,-73.7,483
+11590,STANDARD,0,Westbury,,New Cassel,NY,Nassau County,America/New_York,"516,631,718",NA,US,40.75,-73.58,46820
+11592,UNIQUE,1,Rockville Center,"Rvc, National Profit, Rockville Ctr, Rockville Centre",,NY,Nassau County,America/New_York,516,NA,US,40.75,-73.57,0
+11594,UNIQUE,1,Westbury,115 Firms,,NY,Nassau County,America/New_York,516,NA,US,40.75,-73.58,0
+11595,UNIQUE,1,Westbury,Cheeselovers,,NY,Nassau County,America/New_York,516,NA,US,40.75,-73.58,0
+11596,STANDARD,0,Williston Park,"E Williston, East Williston, Williston Pk",,NY,Nassau County,America/New_York,516,NA,US,40.76,-73.64,10700
+11597,UNIQUE,1,Westbury,115 Crm Firms,,NY,Nassau County,America/New_York,516,NA,US,40.75,-73.58,0
+11598,STANDARD,0,Woodmere,,"Hewlett Neck, Woodsburgh",NY,Nassau County,America/New_York,516,NA,US,40.63,-73.72,14000
+11599,STANDARD,0,Garden City,,,NY,Nassau County,America/New_York,"516,631,718",NA,US,40.72,-73.64,0
+11701,STANDARD,0,Amityville,Amity Harbor,"N Amityville, North Amityville",NY,Suffolk County,America/New_York,"516,631",NA,US,40.66,-73.41,25360
+11702,STANDARD,0,Babylon,"Captree Is, Captree Island, Gilgo Beach, Oak Beach, Oak Island, W Gilgo Beach, West Gilgo Beach",,NY,Suffolk County,America/New_York,"516,631",NA,US,40.69,-73.32,13780
+11703,STANDARD,0,North Babylon,Babylon,N Babylon,NY,Suffolk County,America/New_York,"631,516",NA,US,40.73,-73.32,16530
+11704,STANDARD,0,West Babylon,Babylon,W Babylon,NY,Suffolk County,America/New_York,"516,631",NA,US,40.71,-73.35,37590
+11705,STANDARD,0,Bayport,,Bay Port,NY,Suffolk County,America/New_York,631,NA,US,40.74,-73.05,7800
+11706,STANDARD,0,Bay Shore,"Fair Harbor, Kismet, Point O Woods, Saltaire","Bayshore, N Bay Shore, North Bay Shore, W Bay Shore, West Bay Shore",NY,Suffolk County,America/New_York,631,NA,US,40.72,-73.25,61130
+11707,PO BOX,0,West Babylon,Babylon,W Babylon,NY,Suffolk County,America/New_York,631,NA,US,40.71,-73.35,134
+11708,STANDARD,1,Amityville,,,NY,Suffolk County,America/New_York,631,NA,US,40.68,-73.41,0
+11709,STANDARD,0,Bayville,,,NY,Nassau County,America/New_York,516,NA,US,40.9,-73.56,6420
+11710,STANDARD,0,Bellmore,"N Bellmore, North Bellmore",,NY,Nassau County,America/New_York,"516,631",NA,US,40.65,-73.52,34190
+11713,STANDARD,0,Bellport,,"N Bellport, North Bellport",NY,Suffolk County,America/New_York,631,NA,US,40.75,-72.94,10260
+11714,STANDARD,0,Bethpage,,,NY,Nassau County,America/New_York,516,NA,US,40.74,-73.48,22770
+11715,STANDARD,0,Blue Point,,,NY,Suffolk County,America/New_York,631,NA,US,40.75,-73.03,4440
+11716,STANDARD,0,Bohemia,,,NY,Suffolk County,America/New_York,631,NA,US,40.77,-73.12,10000
+11717,STANDARD,0,Brentwood,"Edgewood, W Brentwood, West Brentwood",Pine Air,NY,Suffolk County,America/New_York,"516,631",NA,US,40.78,-73.24,62310
+11718,STANDARD,0,Brightwaters,,,NY,Suffolk County,America/New_York,631,NA,US,40.71,-73.26,3360
+11719,STANDARD,0,Brookhaven,,S Haven,NY,Suffolk County,America/New_York,631,NA,US,40.78,-72.91,2850
+11720,STANDARD,0,Centereach,"S Setauket, South Setauket",,NY,Suffolk County,America/New_York,631,NA,US,40.87,-73.08,27560
+11721,STANDARD,0,Centerport,,Center Port,NY,Suffolk County,America/New_York,631,NA,US,40.9,-73.37,6310
+11722,STANDARD,0,Central Islip,,"S Hauppauge, South Hauppauge",NY,Suffolk County,America/New_York,"516,631",NA,US,40.78,-73.19,35510
+11724,STANDARD,0,Cold Spring Harbor,Cold Spg Hbr,,NY,Suffolk County,America/New_York,"516,631",NA,US,40.86,-73.44,3400
+11725,STANDARD,0,Commack,,,NY,Suffolk County,America/New_York,631,NA,US,40.84,-73.28,28920
+11726,STANDARD,0,Copiague,,Marconiville,NY,Suffolk County,America/New_York,631,NA,US,40.67,-73.39,19870
+11727,STANDARD,0,Coram,,,NY,Suffolk County,America/New_York,631,NA,US,40.87,-73,26240
+11729,STANDARD,0,Deer Park,,Deerpark,NY,Suffolk County,America/New_York,631,NA,US,40.76,-73.32,27300
+11730,STANDARD,0,East Islip,,E Islip,NY,Suffolk County,America/New_York,631,NA,US,40.72,-73.18,13780
+11731,STANDARD,0,East Northport,"E Northport, Elwood",,NY,Suffolk County,America/New_York,631,NA,US,40.87,-73.32,29720
+11732,STANDARD,0,East Norwich,,"E Norwich, Muttontown, Upper Brookville",NY,Nassau County,America/New_York,516,NA,US,40.84,-73.54,3420
+11733,STANDARD,0,East Setauket,Setauket,"E Setauket, Old Field, Poquott, Strongs Neck",NY,Suffolk County,America/New_York,"516,631",NA,US,40.93,-73.1,17080
+11735,STANDARD,0,Farmingdale,"S Farmingdale, South Farmingdale","E Farmingdale, East Farmingdale",NY,Nassau County,America/New_York,"516,631",NA,US,40.73,-73.44,31420
+11736,UNIQUE,1,Farmingdale,,Creative Mailing Service,NY,Nassau County,America/New_York,516,NA,US,40.73,-73.44,20
+11737,STANDARD,0,Farmingdale,,,NY,Nassau County,America/New_York,"516,631",NA,US,40.73,-73.44,0
+11738,STANDARD,0,Farmingville,,,NY,Suffolk County,America/New_York,631,NA,US,40.84,-73.04,16060
+11739,PO BOX,0,Great River,,,NY,Suffolk County,America/New_York,631,NA,US,40.73,-73.16,1506
+11740,STANDARD,0,Greenlawn,,,NY,Suffolk County,America/New_York,631,NA,US,40.86,-73.36,9040
+11741,STANDARD,0,Holbrook,,,NY,Suffolk County,America/New_York,631,NA,US,40.79,-73.07,26800
+11742,STANDARD,0,Holtsville,,,NY,Suffolk County,America/New_York,631,NA,US,40.81,-73.04,12710
+11743,STANDARD,0,Huntington,"Halesite, Lloyd Harbor","Bay Hills, Baycrest, Beech Croft, Cold Spring Hills, Harbor Heights, Hunt, Huntington Bay, Knollwood Beach, Lloyd Neck, W Hills, West Hills, Wincoma",NY,Suffolk County,America/New_York,"516,631",NA,US,40.87,-73.4,40850
+11746,STANDARD,0,Huntington Station,"Dix Hills, Huntingtn Sta","S Huntington, So Huntington, South Huntington",NY,Suffolk County,America/New_York,631,NA,US,40.84,-73.4,64640
+11747,STANDARD,0,Melville,"Huntingtn Sta, Huntington Station",Dix Hills,NY,Suffolk County,America/New_York,631,NA,US,40.78,-73.41,20620
+11749,STANDARD,0,Islandia,"Central Islip, Hauppauge, Ronkonkoma",,NY,Suffolk County,America/New_York,"516,631",NA,US,40.8,-73.17,3210
+11750,UNIQUE,1,Huntington Station,"Huntingtn Sta, Melville",Abmps,NY,Suffolk County,America/New_York,631,NA,US,40.83,-73.37,0
+11751,STANDARD,0,Islip,,"Bayberry Point, Islip Manor",NY,Suffolk County,America/New_York,631,NA,US,40.73,-73.21,13860
+11752,STANDARD,0,Islip Terrace,,,NY,Suffolk County,America/New_York,631,NA,US,40.76,-73.17,9640
+11753,STANDARD,0,Jericho,,Muttontown,NY,Nassau County,America/New_York,516,NA,US,40.78,-73.54,13670
+11754,STANDARD,0,Kings Park,,San Remo,NY,Suffolk County,America/New_York,631,NA,US,40.89,-73.24,18020
+11755,STANDARD,0,Lake Grove,,Lk Grove,NY,Suffolk County,America/New_York,631,NA,US,40.85,-73.11,11530
+11756,STANDARD,0,Levittown,,"Island Trees, Plainedge",NY,Nassau County,America/New_York,516,NA,US,40.72,-73.51,42530
+11757,STANDARD,0,Lindenhurst,,"Heer Park, N Lindenhurst, North Lindenhurst",NY,Suffolk County,America/New_York,"516,631",NA,US,40.68,-73.37,42700
+11758,STANDARD,0,Massapequa,"N Massapequa, North Massapequa","E Massapequa, East Massapequa",NY,Nassau County,America/New_York,"631,516",NA,US,40.66,-73.47,53360
+11760,PO BOX,0,Islandia,,Central Islip,NY,Suffolk County,America/New_York,631,NA,US,40.82,-73.21,0
+11762,STANDARD,0,Massapequa Park,Massapequa Pk,Bar Harbor,NY,Nassau County,America/New_York,"516,631",NA,US,40.68,-73.45,22720
+11763,STANDARD,0,Medford,,Gordon Heights,NY,Suffolk County,America/New_York,631,NA,US,40.82,-72.98,27060
+11764,STANDARD,0,Miller Place,,,NY,Suffolk County,America/New_York,631,NA,US,40.93,-72.98,12640
+11765,STANDARD,0,Mill Neck,,,NY,Nassau County,America/New_York,516,NA,US,40.88,-73.55,570
+11766,STANDARD,0,Mount Sinai,,Mt Sinai,NY,Suffolk County,America/New_York,"516,631",NA,US,40.93,-73.01,12300
+11767,STANDARD,0,Nesconset,,,NY,Suffolk County,America/New_York,631,NA,US,40.84,-73.15,14220
+11768,STANDARD,0,Northport,Fort Salonga,"Asharoken, Crab Meadow, Eatons Neck, Sunken Meadow",NY,Suffolk County,America/New_York,631,NA,US,40.9,-73.34,21220
+11769,STANDARD,0,Oakdale,,,NY,Suffolk County,America/New_York,631,NA,US,40.73,-73.13,8750
+11770,PO BOX,0,Ocean Beach,,"Corneil Estates, Fire Island, Ocean Bay Park, Seaview",NY,Suffolk County,America/New_York,631,NA,US,40.65,-73.16,355
+11771,STANDARD,0,Oyster Bay,,"Centre Island, Cove Neck, Laurel Hollow, Muttontown, Oyster Bay Cove, Upper Brookville",NY,Nassau County,America/New_York,516,NA,US,40.86,-73.53,9460
+11772,STANDARD,0,Patchogue,"Davis Park, E Patchogue, East Patchogue","Canaan Lake, N Patchogue, North Patchogue",NY,Suffolk County,America/New_York,631,NA,US,40.76,-73.01,40210
+11773,UNIQUE,0,Syosset,,Publishers Clearing House,NY,Nassau County,America/New_York,516,NA,US,40.81,-73.5,0
+11774,UNIQUE,1,Farmingdale,Fulfillment,,NY,Nassau County,America/New_York,516,NA,US,40.73,-73.44,0
+11775,UNIQUE,0,Melville,,Don Jagoda Assc Inc,NY,Suffolk County,America/New_York,631,NA,US,40.78,-73.41,0
+11776,STANDARD,0,Port Jefferson Station,Port Jeff Sta,"P J S, Pjs, Prt Jeff Sta, Prt Jefferson Station, Terryville",NY,Suffolk County,America/New_York,"516,631",NA,US,40.92,-73.06,22880
+11777,STANDARD,0,Port Jefferson,"Port Jeff Sta, Port Jefferson Station, Prt Jefferson","Belle Terre, P J S, Pjs, Pt Jefferson Station",NY,Suffolk County,America/New_York,"631,516",NA,US,40.94,-73.05,8530
+11778,STANDARD,0,Rocky Point,,,NY,Suffolk County,America/New_York,631,NA,US,40.92,-72.92,11730
+11779,STANDARD,0,Ronkonkoma,"Lake Ronkonkoma, Lk Ronkonkoma",Lake Ronkonkoma Heights,NY,Suffolk County,America/New_York,"516,631",NA,US,40.8,-73.12,36440
+11780,STANDARD,0,Saint James,,"Box Hill, Deer Wells, Flowerfield, Head Of The Harbor, Nissequogue, St James",NY,Suffolk County,America/New_York,631,NA,US,40.87,-73.15,14770
+11782,STANDARD,0,Sayville,"Cherry Grove, Fire Is Pines, Fire Island Pines",,NY,Suffolk County,America/New_York,"631,516",NA,US,40.74,-73.08,15080
+11783,STANDARD,0,Seaford,,,NY,Nassau County,America/New_York,"516,631",NA,US,40.66,-73.49,20990
+11784,STANDARD,0,Selden,,Old Westfield,NY,Suffolk County,America/New_York,631,NA,US,40.86,-73.04,23450
+11786,STANDARD,0,Shoreham,,,NY,Suffolk County,America/New_York,631,NA,US,40.95,-72.9,6340
+11787,STANDARD,0,Smithtown,,Village Of The Branch,NY,Suffolk County,America/New_York,"516,631",NA,US,40.85,-73.21,33510
+11788,STANDARD,0,Hauppauge,Smithtown,,NY,Suffolk County,America/New_York,"516,631",NA,US,40.82,-73.21,16510
+11789,STANDARD,0,Sound Beach,,Scotts Beach,NY,Suffolk County,America/New_York,631,NA,US,40.96,-72.97,7150
+11790,STANDARD,0,Stony Brook,,"Head Of The Harbor, Stonybrook",NY,Suffolk County,America/New_York,631,NA,US,40.9,-73.12,12860
+11791,STANDARD,0,Syosset,,"Laurel Hollow, Muttontown, Oyster Bay Cove",NY,Nassau County,America/New_York,516,NA,US,40.81,-73.5,25660
+11792,STANDARD,0,Wading River,,"Wildwood, Willwood",NY,Suffolk County,America/New_York,631,NA,US,40.94,-72.81,8340
+11793,STANDARD,0,Wantagh,,"Briar Park, N Wantagh",NY,Nassau County,America/New_York,"516,631",NA,US,40.66,-73.51,32350
+11794,UNIQUE,0,Stony Brook,,"Stonybrook, Suny Stony Brook",NY,Suffolk County,America/New_York,631,NA,US,40.91,-73.12,97
+11795,STANDARD,0,West Islip,,W Islip,NY,Suffolk County,America/New_York,631,NA,US,40.7,-73.29,24760
+11796,STANDARD,0,West Sayville,,W Sayville,NY,Suffolk County,America/New_York,631,NA,US,40.72,-73.1,3600
+11797,STANDARD,0,Woodbury,,,NY,Nassau County,America/New_York,"516,631",NA,US,40.81,-73.47,8620
+11798,STANDARD,0,Wyandanch,"Wheatley Heights, Wheatley Hts",,NY,Suffolk County,America/New_York,631,NA,US,40.74,-73.37,16130
+11801,STANDARD,0,Hicksville,,,NY,Nassau County,America/New_York,"516,631",NA,US,40.76,-73.52,40280
+11802,PO BOX,0,Hicksville,,,NY,Nassau County,America/New_York,516,NA,US,40.76,-73.52,539
+11803,STANDARD,0,Plainview,,Hicksville,NY,Nassau County,America/New_York,"516,631",NA,US,40.78,-73.47,28870
+11804,STANDARD,0,Old Bethpage,,Hicksville,NY,Nassau County,America/New_York,"516,631",NA,US,40.75,-73.45,5100
+11815,UNIQUE,0,Hicksville,,L I Power Authority,NY,Nassau County,America/New_York,516,NA,US,40.76,-73.52,0
+11819,UNIQUE,0,Hicksville,,Chase Bank,NY,Nassau County,America/New_York,516,NA,US,40.76,-73.52,0
+11853,UNIQUE,0,Jericho,,Chase Bank,NY,Nassau County,America/New_York,516,NA,US,40.78,-73.54,0
+11854,UNIQUE,0,Hicksville,,Hicksville Firms,NY,Nassau County,America/New_York,516,NA,US,40.76,-73.52,0
+11855,UNIQUE,1,Hicksville,,Hicksville Crm Firms,NY,Nassau County,America/New_York,516,NA,US,40.76,-73.52,0
+11901,STANDARD,0,Riverhead,Flanders,Northampton,NY,Suffolk County,America/New_York,631,NA,US,40.94,-72.67,23220
+11930,PO BOX,0,Amagansett,,"Beach Hampton, Promised Land",NY,Suffolk County,America/New_York,631,NA,US,40.99,-72.1,2505
+11931,PO BOX,0,Aquebogue,,,NY,Suffolk County,America/New_York,631,NA,US,40.93,-72.61,2469
+11932,PO BOX,0,Bridgehampton,,Bridge Hampton,NY,Suffolk County,America/New_York,631,NA,US,40.94,-72.29,1730
+11933,STANDARD,0,Calverton,"Baiting Hollo, Baiting Hollow",,NY,Suffolk County,America/New_York,631,NA,US,40.92,-72.76,6260
+11934,STANDARD,0,Center Moriches,Ctr Moriches,,NY,Suffolk County,America/New_York,631,NA,US,40.79,-72.79,7930
+11935,STANDARD,0,Cutchogue,,Nassau Point,NY,Suffolk County,America/New_York,631,NA,US,41.01,-72.48,3250
+11937,STANDARD,0,East Hampton,,E Hampton,NY,Suffolk County,America/New_York,631,NA,US,40.95,-72.19,15590
+11939,STANDARD,0,East Marion,,E Marion,NY,Suffolk County,America/New_York,631,NA,US,41.12,-72.34,880
+11940,STANDARD,0,East Moriches,,E Moriches,NY,Suffolk County,America/New_York,631,NA,US,40.81,-72.76,5150
+11941,STANDARD,0,Eastport,,,NY,Suffolk County,America/New_York,631,NA,US,40.83,-72.73,2470
+11942,STANDARD,0,East Quogue,,E Quogue,NY,Suffolk County,America/New_York,631,NA,US,40.85,-72.57,4750
+11944,STANDARD,0,Greenport,,,NY,Suffolk County,America/New_York,631,NA,US,41.1,-72.36,3980
+11946,STANDARD,0,Hampton Bays,,,NY,Suffolk County,America/New_York,631,NA,US,40.86,-72.52,13600
+11947,PO BOX,0,Jamesport,,,NY,Suffolk County,America/New_York,631,NA,US,40.95,-72.57,1482
+11948,STANDARD,0,Laurel,,,NY,Suffolk County,America/New_York,631,NA,US,40.97,-72.55,1120
+11949,STANDARD,0,Manorville,,,NY,Suffolk County,America/New_York,631,NA,US,40.85,-72.79,13770
+11950,STANDARD,0,Mastic,,"Manor Park, Rivers Edge",NY,Suffolk County,America/New_York,"516,631",NA,US,40.8,-72.84,14960
+11951,STANDARD,0,Mastic Beach,,"Old Mastic, Village Of Mastic Beach",NY,Suffolk County,America/New_York,631,NA,US,40.76,-72.84,11800
+11952,STANDARD,0,Mattituck,,,NY,Suffolk County,America/New_York,631,NA,US,41,-72.53,4600
+11953,STANDARD,0,Middle Island,,,NY,Suffolk County,America/New_York,631,NA,US,40.88,-72.94,11600
+11954,STANDARD,0,Montauk,,Hither Plains,NY,Suffolk County,America/New_York,631,NA,US,41.04,-71.94,4300
+11955,STANDARD,0,Moriches,,,NY,Suffolk County,America/New_York,631,NA,US,40.8,-72.82,2920
+11956,PO BOX,0,New Suffolk,,,NY,Suffolk County,America/New_York,631,NA,US,40.99,-72.48,360
+11957,STANDARD,0,Orient,,Orient Point,NY,Suffolk County,America/New_York,631,NA,US,41.14,-72.3,730
+11958,STANDARD,0,Peconic,,,NY,Suffolk County,America/New_York,631,NA,US,41.03,-72.46,810
+11959,PO BOX,0,Quogue,,,NY,Suffolk County,America/New_York,631,NA,US,40.83,-72.6,1395
+11960,PO BOX,0,Remsenburg,,,NY,Suffolk County,America/New_York,631,NA,US,40.81,-72.71,1461
+11961,STANDARD,0,Ridge,,"Lake Panamoka, Panamoka",NY,Suffolk County,America/New_York,631,NA,US,40.91,-72.88,11600
+11962,PO BOX,0,Sagaponack,,,NY,Suffolk County,America/New_York,631,NA,US,40.92,-72.27,621
+11963,STANDARD,0,Sag Harbor,,"Bay Point, N Haven, North Haven, Pine Neck",NY,Suffolk County,America/New_York,631,NA,US,40.99,-72.29,6870
+11964,PO BOX,0,Shelter Island,Shelter Is,,NY,Suffolk County,America/New_York,631,NA,US,41.06,-72.32,1729
+11965,PO BOX,0,Shelter Island Heights,Shelter Is Ht,,NY,Suffolk County,America/New_York,631,NA,US,41.1,-72.29,875
+11967,STANDARD,0,Shirley,"E Yaphank, East Yaphank, Smith Point",Smiths Point,NY,Suffolk County,America/New_York,631,NA,US,40.79,-72.87,24530
+11968,STANDARD,0,Southampton,,"S Hampton, South Hampton",NY,Suffolk County,America/New_York,631,NA,US,40.88,-72.39,9370
+11969,PO BOX,0,Southampton,,"S Hampton, South Hampton",NY,Suffolk County,America/New_York,631,NA,US,40.88,-72.39,2417
+11970,PO BOX,0,South Jamesport,S Jamesport,,NY,Suffolk County,America/New_York,631,NA,US,40.94,-72.58,405
+11971,STANDARD,0,Southold,,,NY,Suffolk County,America/New_York,631,NA,US,41.05,-72.42,5440
+11972,PO BOX,0,Speonk,,,NY,Suffolk County,America/New_York,631,NA,US,40.85,-72.7,926
+11973,PO BOX,0,Upton,,,NY,Suffolk County,America/New_York,631,NA,US,40.86,-72.87,438
+11975,PO BOX,0,Wainscott,,,NY,Suffolk County,America/New_York,631,NA,US,40.94,-72.24,1196
+11976,STANDARD,0,Water Mill,,"Watermill, Wtr Mill",NY,Suffolk County,America/New_York,631,NA,US,40.92,-72.34,2070
+11977,STANDARD,0,Westhampton,,"W Hampton, West Hampton",NY,Suffolk County,America/New_York,631,NA,US,40.83,-72.68,2380
+11978,STANDARD,0,Westhampton Beach,W Hampton Bch,"Quioque, W Hampton Beach, West Hampton Beach, West Hampton Dunes, Westhampton Dunes",NY,Suffolk County,America/New_York,631,NA,US,40.83,-72.65,3420
+11980,STANDARD,0,Yaphank,,Carver Park,NY,Suffolk County,America/New_York,631,NA,US,40.83,-72.92,3960
