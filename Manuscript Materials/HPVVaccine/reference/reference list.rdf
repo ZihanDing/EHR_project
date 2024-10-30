@@ -1,0 +1,2581 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <rdf:Description rdf:about="http://medrxiv.org/lookup/doi/10.1101/2020.09.01.20185991">
+        <z:itemType>preprint</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenName>Xin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hou</foaf:surname>
+                        <foaf:givenName>Wei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rashidian</foaf:surname>
+                        <foaf:givenName>Sina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Yu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhao</foaf:surname>
+                        <foaf:givenName>Xia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rosenthal</foaf:surname>
+                        <foaf:givenName>Richard N</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Saltz</foaf:surname>
+                        <foaf:givenName>Mary</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Saltz</foaf:surname>
+                        <foaf:givenName>Joel H</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schoenfeld</foaf:surname>
+                        <foaf:givenName>Elinor Randi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Leibowitz</foaf:surname>
+                        <foaf:givenName>George Stuart</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Fusheng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_28"/>
+        <dc:title>Trends and Patterns of Opioid Epidemic: A Large-Scale Retrospective Study of Hospital Visits with Opioid Poisoning in New York State, 2010-2016</dc:title>
+        <dcterms:abstract>Introduction: To discover trends and patterns of opioid poisoning and the demographic and regional disparities by analyzing large scale patient visits data in New York State (NYS).
+Methods: Demographic, spatial, temporal and correlation analyses were performed for all OP patients extracted from the New York Statewide Planning and Research Cooperative System (SPARCS) from 2010 to 2016, along with Decennial US Census and American Community Survey zip code level data. The study is based on claims data. 58,481 patients with at least one OP diagnosis and a valid NYS zip code address were included. OP patient counts and rates per 100,000 population; patient level factors (gender, age, race and ethnicity, residential zip code); zip code level social demographic factors. Analyses were completed between 2017 and 2019.
+Results: In this study of 58,481 patients with opioid poisoning (OP) in New York State from 2010 to 2016, the OP rate increased by 364.6%, and by 741.5% for the age group &gt; 65 years. There were wide disparities among groups by race and ethnicity on rates and age distributions of OP. Heroin and non-Heroin based OP rates show distinct temporal trends as well as major geospatial variation.
+Conclusions: The findings highlight strong demographic disparity of OP patients, evolving patterns and substantial geospatial variation.</dcterms:abstract>
+        <dc:date>2020-09-03</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Trends and Patterns of Opioid Epidemic</z:shortTitle>
+        <z:libraryCatalog>Public and Global Health</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://medrxiv.org/lookup/doi/10.1101/2020.09.01.20185991</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-09 22:42:56</dcterms:dateSubmitted>
+        <dc:identifier>DOI 10.1101/2020.09.01.20185991</dc:identifier>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_28">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Chen et al. - 2020 - Trends and Patterns of Opioid Epidemic A Large-Sc.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_2">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_29"/>
+        <dc:subject>doh15-19</dc:subject>
+        <dc:title>HPV-Related Cancer Incidence and HPV Vaccination Rates in New York State, 2015-2019</dc:title>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_29">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>HPV-Related Cancer Incidence and HPV Vaccination R.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_3">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_30"/>
+        <dc:subject>nys13-17</dc:subject>
+        <dc:title>HPV-Related Cancer Incidence and HPV Vaccination Rates in New York State, 2013-2017</dc:title>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_30">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>HPV-Related Cancer Incidence and HPV Vaccination R.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://publications.aap.org/pediatrics/article/127/1/77/30012/Adherence-to-the-HPV-Vaccine-Dosing-Intervals-and">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0031-4005,%201098-4275"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Widdice</foaf:surname>
+                        <foaf:givenName>Lea E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bernstein</foaf:surname>
+                        <foaf:givenName>David I.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Leonard</foaf:surname>
+                        <foaf:givenName>Anthony C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Marsolo</foaf:surname>
+                        <foaf:givenName>Keith A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kahn</foaf:surname>
+                        <foaf:givenName>Jessica A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_31"/>
+        <dc:subject>DoseInterval</dc:subject>
+        <dc:title>Adherence to the HPV Vaccine Dosing Intervals and Factors Associated With Completion of 3 Doses</dc:title>
+        <dcterms:abstract>OBJECTIVE: The objectives of this study were to determine (1) adherence to the immunization schedule for the human papillomavirus quadrivalent vaccine and (2) factors associated with completion of the 3-dose series.
+METHODS: This was a retrospective review of health information records from an academic medical center. The sample included all 9to 26-year-old female patients who initiated vaccination within 2 years after quadrivalent vaccine availability. Multivariable logistic regression models were estimated to determine associations with completion of the 3-dose series within 7 and 12 months.
+RESULTS: Among the 3297 female patients who initiated vaccination with human papillomavirus quadrivalent vaccine, 67% self-identiﬁed as black and 29% self-identiﬁed as white. Fewer than 3% of vaccine doses were received earlier than recommended, but Ͼ50% of doses were received late. Completion rates were 14% by 7 months and 28% by 12 months. Independent predictors of completion by 7 months included white versus black race (odds ratio [OR]: 2.04 [95% conﬁdence interval (CI): 1.64 –2.56]; P Ͻ .001), use of contraception that required intramuscular injections every 3 months (OR: 1.53 [95% CI: 1.12–1.95]; P Ͻ .001), and private versus public insurance (OR: 1.31 [95% CI: 1.06 –1.63]; P Ͻ .05). Age and clinic type were not independent predictors of completion.
+CONCLUSIONS: Adherence to recommended intervals and completion of the vaccine series were low. Lower rates of completion in black patients compared with white patients raises concern that disparities in vaccine completion could exacerbate existing disparities in cervical cancer. Pediatrics 2011;127:77–84</dcterms:abstract>
+        <dc:date>2011-01-01</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://publications.aap.org/pediatrics/article/127/1/77/30012/Adherence-to-the-HPV-Vaccine-Dosing-Intervals-and</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-09 22:42:53</dcterms:dateSubmitted>
+        <bib:pages>77-84</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0031-4005,%201098-4275">
+        <prism:volume>127</prism:volume>
+        <dc:title>Pediatrics</dc:title>
+        <dc:identifier>DOI 10.1542/peds.2010-0812</dc:identifier>
+        <prism:number>1</prism:number>
+        <dc:identifier>ISSN 0031-4005, 1098-4275</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_31">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Widdice et al. - 2011 - Adherence to the HPV Vaccine Dosing Intervals and .pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.mdpi.com/2076-393X/10/4/577">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2076-393X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ejezie</foaf:surname>
+                        <foaf:givenName>Chinenye Lynette</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Osaghae</foaf:surname>
+                        <foaf:givenName>Ikponmwosa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ayieko</foaf:surname>
+                        <foaf:givenName>Sylvia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cuccaro</foaf:surname>
+                        <foaf:givenName>Paula</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_49"/>
+        <link:link rdf:resource="#item_32"/>
+        <dc:subject>HPVdose</dc:subject>
+        <dc:title>Adherence to the Recommended HPV Vaccine Dosing Schedule among Adolescents Aged 13 to 17 Years: Findings from the National Immunization Survey-Teen, 2019–2020</dc:title>
+        <dcterms:abstract>The 9-valent human papillomavirus (9-vHPV) vaccine uptake rate among adolescents has improved over the years; however, little is known about the adherence to the recommended dosing schedule. This study examines the prevalence and factors associated with adherence to the recommended 9vHPV vaccination dosing schedule among adolescents aged 13 to 17 years. The crosssectional study was conducted using the 2019–2020 National Immunization Survey-Teen. The parents of 34,619 adolescents were included in our analyses. The overall up-to-date (UTD) prevalence was 57.1%. The UTD prevalence was 60.0% among females and 54.2% among males. Adolescents aged 16 years had the highest UTD prevalence of 63.0%. The UTD prevalence was 61.6% among Hispanics and 54.7% among non-Hispanic Whites. Overall, compared to females, males had 14% lower odds of UTD. The odds of UTD were 1.91 times, 2.08 times, and 1.98 times higher among adolescents aged 15–17 years, respectively, compared to those aged 13 years. Moreover, region, poverty, insurance status, mothers’ educational level, and provider recommendation were associated with UTD. Our ﬁndings show that adherence to the recommended 9vHPV vaccine schedule is low in the US. Targeted public health efforts are needed to improve the rates of adherence to the recommended 9vHPV dose schedule.</dcterms:abstract>
+        <dc:date>2022-04-08</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Adherence to the Recommended HPV Vaccine Dosing Schedule among Adolescents Aged 13 to 17 Years</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.mdpi.com/2076-393X/10/4/577</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-09 22:42:51</dcterms:dateSubmitted>
+        <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        <bib:pages>577</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2076-393X">
+        <prism:volume>10</prism:volume>
+        <dc:title>Vaccines</dc:title>
+        <dc:identifier>DOI 10.3390/vaccines10040577</dc:identifier>
+        <prism:number>4</prism:number>
+        <dcterms:alternative>Vaccines</dcterms:alternative>
+        <dc:identifier>ISSN 2076-393X</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_49">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;&lt;code&gt;The vaccine is typically administered through a series of injections. In the United States, the HPV vaccine has been widely available and recommended for adolescents and young adults.&lt;/code&gt;&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_32">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Ejezie et al. - 2022 - Adherence to the Recommended HPV Vaccine Dosing Sc.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_6">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <prism:volume>65</prism:volume><prism:number>49</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Meites</foaf:surname>
+                        <foaf:givenName>Elissa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kempe</foaf:surname>
+                        <foaf:givenName>Allison</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Markowitz</foaf:surname>
+                        <foaf:givenName>Lauri E</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_27"/>
+        <link:link rdf:resource="#item_33"/>
+        <dc:subject>cdcDoseRecomend</dc:subject>
+        <dc:title>Use of a 2-Dose Schedule for Human Papillomavirus Vaccination — Updated Recommendations of the Advisory Committee on Immunization Practices</dc:title>
+        <dc:date>2016</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_27">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;From 2016 only 9-revant HPV vaccine in the United States&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_33">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Meites et al. - 2016 - Use of a 2-Dose Schedule for Human Papillomavirus .pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S0749379719301904">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:07493797"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schoenfeld</foaf:surname>
+                        <foaf:givenName>Elinor R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Leibowitz</foaf:surname>
+                        <foaf:givenName>George S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Yu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenName>Xin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hou</foaf:surname>
+                        <foaf:givenName>Wei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rashidian</foaf:surname>
+                        <foaf:givenName>Sina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Saltz</foaf:surname>
+                        <foaf:givenName>Mary M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Saltz</foaf:surname>
+                        <foaf:givenName>Joel H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Fusheng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_50"/>
+        <link:link rdf:resource="#item_34"/>
+        <dc:subject>GTSinOP</dc:subject>
+        <dc:title>Geographic, Temporal, and Sociodemographic Differences in Opioid Poisoning</dc:title>
+        <dcterms:abstract>Introduction: Not enough is known about the epidemiology of opioid poisoning to tailor interventions to help address the growing opioid crisis in the U.S. The objective of this study is to expand the current understanding of opioid poisoning through the use of data analytics to evaluate geographic, temporal, and sociodemographic differences of opioid poisoning− related hospital visits in a region of New York State with high opioid poisoning rates.
+Methods: This retrospective cohort study utilized patient-level New York State all-payer hospital data (2010−2016) combined with Census data to evaluate geographic, patient, and community factors for 9,714 Long Island residents with an opioid poisoning−related inpatient or outpatient hospital facility discharge. Temporal, 7-year opioid poisoning rates and trends were evaluated, and geographic maps were generated. Overall, signiﬁcance tests and tests for linear trend were based upon logistic regression. Analyses were completed between 2017 and 2018.
+Results: Since 2010, Long Island and New York State opioid poisoning hospital visit rates have increased 2.5- to 2.7-fold (p&lt;0.001). Opioid poisoning hospital visit rates decreased for men, white patients, and self-payers (p&lt;0.001) and increased for Medicare payers (p&lt;0.001). Communities with high opioid poisoning rates had lower median home values, higher percentages of high school graduates, were younger, and more often white patients (p&lt;0.01). Maps displayed geographic patterns of communities with high opioid poisoning rates overall and by age group.
+Conclusions: Findings highlight the changing demographics of the opioid poisoning epidemic and utility of data analytics tools to identify regions and patient populations to focus interventions. These population identiﬁcation techniques can be applied in other communities and interventions.</dcterms:abstract>
+        <dc:date>08/2019</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S0749379719301904</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-09 22:42:49</dcterms:dateSubmitted>
+        <bib:pages>153-164</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:07493797">
+        <prism:volume>57</prism:volume>
+        <dc:title>American Journal of Preventive Medicine</dc:title>
+        <dc:identifier>DOI 10.1016/j.amepre.2019.03.020</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>American Journal of Preventive Medicine</dcterms:alternative>
+        <dc:identifier>ISSN 07493797</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_50">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;Long islands population various&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_34">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Schoenfeld et al. - 2019 - Geographic, Temporal, and Sociodemographic Differe.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S0091743515002790">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:00917435"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lin</foaf:surname>
+                        <foaf:givenName>Lavinia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Benard</foaf:surname>
+                        <foaf:givenName>Vicki B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Greek</foaf:surname>
+                        <foaf:givenName>April</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hawkins</foaf:surname>
+                        <foaf:givenName>Nikki A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Roland</foaf:surname>
+                        <foaf:givenName>Katherine B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Saraiya</foaf:surname>
+                        <foaf:givenName>Mona</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_35"/>
+        <dc:subject>socioecoHPV</dc:subject>
+        <dc:title>Racial and ethnic differences in human papillomavirus positivity and risk factors among low-income women in Federally Qualified Health Centers in the United States</dc:title>
+        <dcterms:abstract>Reasons for racial/ethnic disparities in HPV infection are unclear. This study assessed racial/ethnic differences in and risk factors for HPV positivity among low-income women. Data were collected from 984 low-income women visiting Federally Qualified Health Centers across Illinois (2009–2011). Pearson chi square and Logistic regression analyses were used to examine associations with HPV positivity. Our results showed Mexican-born Hispanics had the lowest HPV positivity (16%), followed by non-Hispanic whites (29%), US-born Hispanics (35%), and non-Hispanic blacks (39%). Mexican-born Hispanics reported fewer risk behaviors for HPV positivity, including first sexual intercourse before age 16 years (9% versus 27%), multiple sexual partners in lifetime (48% versus 90%), and current cigarette smoking status (10% versus 35%) when compared to non-Hispanic whites (p &lt; 0.001). In multivariate-adjusted logistic regression, being non-Hispanic black, first sexual intercourse before age 16 years, increasing numbers of recent or lifetime sexual partners and current cigarette smoking status were associated with a higher likelihood of HPV positivity. Our findings highlight racial/ethnic differences in HPV positivity and risk factors in a population of women with similar socioeconomic characteristics. When measuring HPV risk factors within the Hispanic population, foreign-born status and other mediating factors, such as social norms and cultural characteristics, may be relevant to assess the intragroup heterogeneity.</dcterms:abstract>
+        <dc:date>12/2015</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S0091743515002790</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-09 22:42:47</dcterms:dateSubmitted>
+        <bib:pages>258-261</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:00917435">
+        <prism:volume>81</prism:volume>
+        <dc:title>Preventive Medicine</dc:title>
+        <dc:identifier>DOI 10.1016/j.ypmed.2015.08.027</dc:identifier>
+        <dcterms:alternative>Preventive Medicine</dcterms:alternative>
+        <dc:identifier>ISSN 00917435</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_35">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Lin et al. - 2015 - Racial and ethnic differences in human papillomavi.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://academic.oup.com/jnci/article-lookup/doi/10.1093/jnci/djv086">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1460-2105,%200027-8874"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Saraiya</foaf:surname>
+                        <foaf:givenName>Mona</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Unger</foaf:surname>
+                        <foaf:givenName>Elizabeth R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Thompson</foaf:surname>
+                        <foaf:givenName>Trevor D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lynch</foaf:surname>
+                        <foaf:givenName>Charles F.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hernandez</foaf:surname>
+                        <foaf:givenName>Brenda Y.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lyu</foaf:surname>
+                        <foaf:givenName>Christopher W.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Steinau</foaf:surname>
+                        <foaf:givenName>Martin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Watson</foaf:surname>
+                        <foaf:givenName>Meg</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wilkinson</foaf:surname>
+                        <foaf:givenName>Edward J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hopenhayn</foaf:surname>
+                        <foaf:givenName>Claudia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Copeland</foaf:surname>
+                        <foaf:givenName>Glenn</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cozen</foaf:surname>
+                        <foaf:givenName>Wendy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Peters</foaf:surname>
+                        <foaf:givenName>Edward S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Huang</foaf:surname>
+                        <foaf:givenName>Youjie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Saber</foaf:surname>
+                        <foaf:givenName>Maria Sibug</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Altekruse</foaf:surname>
+                        <foaf:givenName>Sean</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Goodman</foaf:surname>
+                        <foaf:givenName>Marc T.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_26"/>
+        <link:link rdf:resource="#item_36"/>
+        <dc:subject>usHPVtypes</dc:subject>
+        <dc:title>US Assessment of HPV Types in Cancers: Implications for Current and 9-Valent HPV Vaccines</dc:title>
+        <dcterms:abstract>Background: This study sought to determine the prevaccine type-specific prevalence of human papillomavirus (HPV)–associated cancers in the United States to evaluate the potential impact of the HPV types in the current and newly approved 9-valent HPV vaccines.
+Methods: The Centers for Disease Control and Prevention partnered with seven US population-based cancer registries to obtain archival tissue for cancers diagnosed from 1993 to 2005. HPV testing was performed on 2670 case patients that were fairly representative of all participating cancer registry cases by age and sex. Demographic and clinical data were evaluated by anatomic site and HPV status. Current US cancer registry data and the detection of HPV types were used to estimate the number of cancers potentially preventable through vaccination.
+Results: HPV DNA was detected in 90.6% of cervical, 91.1% of anal, 75.0% of vaginal, 70.1% of oropharyngeal, 68.8% of vulvar, 63.3% of penile, 32.0% of oral cavity, and 20.9% of laryngeal cancers, as well as in 98.8% of cervical cancer in situ (CCIS). A vaccine targeting HPV 16/18 potentially prevents the majority of invasive cervical (66.2%), anal (79.4%), oropharyngeal (60.2%), and vaginal (55.1%) cancers, as well as many penile (47.9%), vulvar (48.6%) cancers: 24 858 cases annually. The 9-valent vaccine also targeting HPV 31/33/45/52/58 may prevent an additional 4.2% to 18.3% of cancers: 3944 cases annually. For most cancers, younger age at diagnosis was associated with higher HPV 16/18 prevalence. With the exception of oropharyngeal cancers and CCIS, HPV 16/18 prevalence was similar across racial/ethnic groups.
+Conclusions: In the United States, current vaccines will reduce most HPV-associated cancers; a smaller additional reduction would be contributed by the new 9-valent vaccine.</dcterms:abstract>
+        <dc:date>6/2015</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>US Assessment of HPV Types in Cancers</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/jnci/article-lookup/doi/10.1093/jnci/djv086</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-09 22:42:46</dcterms:dateSubmitted>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1460-2105,%200027-8874">
+        <prism:volume>107</prism:volume>
+        <dc:title>JNCI: Journal of the National Cancer Institute</dc:title>
+        <dc:identifier>DOI 10.1093/jnci/djv086</dc:identifier>
+        <prism:number>6</prism:number>
+        <dc:identifier>ISSN 1460-2105, 0027-8874</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_26">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;HPV infections cause approximately 33700 cases of cancer every year in the United States, including cervical, vaginal, penile, anal and head and neck cancers. &lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_36">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Saraiya et al. - 2015 - US Assessment of HPV Types in Cancers Implication.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_10">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>hpv_related_cancers_and_vax_inNYS_NYSIIS.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_11">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Bergman 2019 comparison of HPV Vax schedules types.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="#item_47">
+        <z:itemType>forumPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Forum></z:Forum>
+        </dcterms:isPartOf>
+        <dcterms:isReferencedBy rdf:resource="#item_51"/>
+        <dc:subject>NYSDOHguidline</dc:subject>
+        <dc:title>https://www.nyc.gov/site/doh/health/health-topics/human-papillomavirus-hpv.page</dc:title>
+    </bib:Document>
+    <bib:Memo rdf:about="#item_51">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;HPV doses guidlines&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="https://www.tandfonline.com/doi/full/10.1080/21645515.2023.2251815">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2164-5515,%202164-554X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shin</foaf:surname>
+                        <foaf:givenName>Michelle B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sloan</foaf:surname>
+                        <foaf:givenName>Kylie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Baezconde-Garbanati</foaf:surname>
+                        <foaf:givenName>Lourdes</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dang</foaf:surname>
+                        <foaf:givenName>Emily</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Garcia</foaf:surname>
+                        <foaf:givenName>Samantha</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Palinkas</foaf:surname>
+                        <foaf:givenName>Lawrence A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Unger</foaf:surname>
+                        <foaf:givenName>Jennifer B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Willgerodt</foaf:surname>
+                        <foaf:givenName>Mayumi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Crabtree</foaf:surname>
+                        <foaf:givenName>Benjamin F.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tsui</foaf:surname>
+                        <foaf:givenName>Jennifer</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_52"/>
+        <link:link rdf:resource="#item_53"/>
+        <dc:subject>schoolbaseHPV</dc:subject>
+        <dc:title>Multilevel perspectives on school-based opportunities to improve HPV vaccination among medically underserved adolescents: Beyond school entry mandates</dc:title>
+        <dcterms:abstract>School-based HPV vaccination programs have improved vaccine uptake among adolescents globally. However, school-based HPV vaccination strategies in the United States (US) have mainly focused on school-entry mandates for vaccination, which have passed in only five states/jurisdictions. Many schools and school-based health centers (SBHCs) already provide health services to medically underserved adolescents and opportunities to improve disparities in HPV vaccine education and uptake are under­ explored. This qualitative study of clinic and community members assessed potential opportunities within and outside schools to increase HPV vaccination. Data were generated from a larger mixedmethods study designed to understand experiences with HPV vaccination evidence-based strategies in medically underserved communities. The parent study included interviews and focus groups conducted with clinic (providers, clinic leaders, staff) and community (racial/ethnic minority parents, advocates, payers, policy representatives) members in Los Angeles and New Jersey between December 2020January 2022. We created a reduced dataset of text related to schools/SBHCs (30 in-depth interviews, 7 focus groups) and conducted a directed content analysis. Participants indicated that schools and SBHCs are ideal venues for reaching medically underserved adolescents experiencing barriers to primary care access. Parents/providers expressed mutual interest in HPV vaccine administration/education in schools, but some advocates/policy participants experienced challenges due to increasing politicization of vaccines. Participants highlighted policies for expanding HPV vaccine education and administration in schools, including minor consent and increasing SBHC funding for HPV vaccines. More research is needed to explore existing infrastructure, partner motivation, and opportunities to improve HPV vaccination among medically underserved adolescents within schools beyond vaccine mandates.</dcterms:abstract>
+        <dc:date>08/2023</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Multilevel perspectives on school-based opportunities to improve HPV vaccination among medically underserved adolescents</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tandfonline.com/doi/full/10.1080/21645515.2023.2251815</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-12 18:07:46</dcterms:dateSubmitted>
+        <bib:pages>2251815</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2164-5515,%202164-554X">
+        <prism:volume>19</prism:volume>
+        <dc:title>Human Vaccines &amp; Immunotherapeutics</dc:title>
+        <dc:identifier>DOI 10.1080/21645515.2023.2251815</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>Human Vaccines &amp; Immunotherapeutics</dcterms:alternative>
+        <dc:identifier>ISSN 2164-5515, 2164-554X</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_52">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;School based HPV vaccination!&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_53">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Shin et al. - 2023 - Multilevel perspectives on school-based opportunit.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_55">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>83</prism:volume>
+                <dc:title>SOCIAL WELFARE</dc:title>
+                <prism:number>4</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Roman</foaf:surname>
+                        <foaf:givenName>Meliza</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenName>John J</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_57"/>
+        <dcterms:isReferencedBy rdf:resource="#item_56"/>
+        <link:link rdf:resource="#item_54"/>
+        <dc:subject>usFactors</dc:subject>
+        <dc:title>Understanding Factors Affecting Health Providers’ Perceptions  of Pharmacist Roles in HPV Vaccine Administration</dc:title>
+        <dcterms:abstract>Human papillomavirus (HPV) is a viral infection that sexually active females and males may be exposed to in their lifetime. The HPV vaccine is highly recommended especially among children to protect them before their anticipated exposure to HPV, however, vaccination uptake in Hawai‘i remains low. As of 2017, legislation allows pharmacists to vaccinate for adolescent vaccines with the potential to increase access and opportunities for patients to complete the HPV vaccine series. Physicians in Hawai‘i were surveyed to examine physicians’ awareness of this law, their perceptions of the role of pharmacists, and willingness to send adolescent patients to pharmacies; 137 responses were received and analyzed. Overall, 72% (n=99) of respondents were willing while 28% (n=38) were unwilling to send patients to pharmacies for vaccines. Physicians view pharmacists’ role as helpful but have concerns regarding correct administration and tracking doses given. Results show potential for more physician-pharmacist collaborations through further education and trainings for pharmacists and health providers to increase physician referrals for adolescent vaccine services in pharmacies.</dcterms:abstract>
+        <dc:date>2024</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+   <bib:Memo rdf:about="#item_57"><rdf:value></rdf:value></bib:Memo>
+    <bib:Memo rdf:about="#item_56">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(33, 33, 33)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;Different types of HPV are known to cause about 91% of cervical and anal cancers, more than 69% of vulvar and vaginal cancers, 70% of oropharyngeal cancers, and 63% of penile cancers according to the National Cancer Institute’s Surveillance, Epidemiology, and End Results Program.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_54">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Roman and Chen - 2024 - 2021 Writing Contest graduate Winner.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://ij-healthgeographics.biomedcentral.com/articles/10.1186/1476-072X-3-14">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1476072X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Goovaerts</foaf:surname>
+                        <foaf:givenName>Pierre</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jacquez</foaf:surname>
+                        <foaf:givenName>Geoffrey M</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_62"/>
+        <link:link rdf:resource="#item_61"/>
+        <dc:subject>LIpopulation</dc:subject>
+        <dc:title>Accounting for regional background and population size in the detection of spatial clusters and outliers using geostatistical filtering and spatial neutral models: the case of lung cancer in Long Island, New York</dc:title>
+        <dcterms:abstract>Background: Complete Spatial Randomness (CSR) is the null hypothesis employed by many statistical tests for spatial pattern, such as local cluster or boundary analysis. CSR is however not a relevant null hypothesis for highly complex and organized systems such as those encountered in the environmental and health sciences in which underlying spatial pattern is present. This paper presents a geostatistical approach to filter the noise caused by spatially varying population size and to generate spatially correlated neutral models that account for regional background obtained by geostatistical smoothing of observed mortality rates. These neutral models were used in conjunction with the local Moran statistics to identify spatial clusters and outliers in the geographical distribution of male and female lung cancer in Nassau, Queens, and Suffolk counties, New York, USA.
+Results: We developed a typology of neutral models that progressively relaxes the assumptions of null hypotheses, allowing for the presence of spatial autocorrelation, non-uniform risk, and incorporation of spatially heterogeneous population sizes. Incorporation of spatial autocorrelation led to fewer significant ZIP codes than found in previous studies, confirming earlier claims that CSR can lead to over-identification of the number of significant spatial clusters or outliers. Accounting for population size through geostatistical filtering increased the size of clusters while removing most of the spatial outliers. Integration of regional background into the neutral models yielded substantially different spatial clusters and outliers, leading to the identification of ZIP codes where SMR values significantly depart from their regional background.
+Conclusion: The approach presented in this paper enables researchers to assess geographic relationships using appropriate null hypotheses that account for the background variation extant in real-world systems. In particular, this new methodology allows one to identify geographic pattern above and beyond background variation. The implementation of this approach in spatial statistical software will facilitate the detection of spatial disparities in mortality rates, establishing the rationale for targeted cancer control interventions, including consideration of health services needs, and resource allocation for screening and diagnostic testing. It will allow researchers to systematically evaluate how sensitive their results are to assumptions implicit under alternative null hypotheses.</dcterms:abstract>
+        <dc:date>2004</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://ij-healthgeographics.biomedcentral.com/articles/10.1186/1476-072X-3-14</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-14 20:13:19</dcterms:dateSubmitted>
+        <bib:pages>14</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1476072X">
+        <prism:volume>3</prism:volume>
+        <dc:title>International Journal of Health Geographics</dc:title>
+        <dc:identifier>DOI 10.1186/1476-072X-3-14</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Int J Health Geogr</dcterms:alternative>
+        <dc:identifier>ISSN 1476072X</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_62">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;This paper states the privacy protection of NYSDOH&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_61">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Goovaerts and Jacquez - 2004 - [No title found].pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_59">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>International Journal of Health Geographics</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jacquez</foaf:surname>
+                        <foaf:givenName>Geoffrey M</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Greiling</foaf:surname>
+                        <foaf:givenName>Dunrie A</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_60"/>
+        <dc:subject>NysdohPrivacy</dc:subject>
+        <dc:title>Local clustering in breast, lung and colorectal cancer in Long Island, New York</dc:title>
+        <dcterms:abstract>Background: Analyses of spatial disease patterns usually employ a univariate approach that uses one technique to identify disease clusters. Because different methods are sensitive to different aspects of spatial pattern, an approach employing a battery of techniques is expected to describe geographic variation in human health more fully. This two-part study employs a multi-method approach to elucidate geographic variation in cancer incidence in Long Island, New York, and to evaluate spatial association with air-borne toxics. This first paper uses the local Moran statistic to identify cancer hotspots and spatial outliers. We evaluated the geographic distributions of breast cancer in females and colorectal and lung cancer in males and females in Nassau, Queens, and Suffolk counties, New York, USA. We calculated standardized morbidity ratios (SMR values) from New York State Department of Health (NYSDOH) data.
+Results: We identified significant local clusters of high and low SMR and significant spatial outliers for each cancer-gender combination. We then compared our results with the study conducted by NYSDOH using Kulldorff's spatial scan statistic. We identified patterns on a smaller spatial scale with different cluster shapes than the NYSDOH analysis did, a consequence of different statistical methods and analysis scale.
+Conclusion: This is a methodological and comparative study to evaluate whether there is substantial benefit added by using a variety of techniques for geographic pattern detection at different spatial scales. We located significant spatial pattern in cancer morbidity in Nassau, Queens, and Suffolk counties. These results broadly agree with the results of other studies that used different techniques, but differ in specifics. The differences in our results and that of the NYSDOH underscore the need for an exploratory, integrative, and multi-scalar approach to assessing geographic patterns of disease, as different methods identify different patterns. We recommend that future studies of geographic patterns use a concordance of evidence from a multiscalar integrative geographic approach to assure that 1) different aspects of spatial pattern are fully identified and 2) the results from the suite of analyses are logically consistent.</dcterms:abstract>
+        <dc:date>2003</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_60">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Jacquez and Greiling - 2003 - Local clustering in breast, lung and colorectal ca.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pubmed.ncbi.nlm.nih.gov/33388322/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <dcterms:isReferencedBy rdf:resource="#item_67"/>
+        <dc:subject>schoolbaseHPV1</dc:subject>
+        <dc:title>HPV vaccination introduction worldwide and WHO and UNICEF estimates of national HPV immunization coverage 20102019.</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://pubmed.ncbi.nlm.nih.gov/33388322/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_67">
+        <rdf:value>&lt;div data-citation-items=&quot;%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F14052267%2Fitems%2FQUCHN3IT%22%5D%2C%22itemData%22%3A%7B%22id%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F14052267%2Fitems%2FQUCHN3IT%22%2C%22type%22%3A%22article-journal%22%2C%22abstract%22%3A%22School-based%20HPV%20vaccination%20programs%20have%20improved%20vaccine%20uptake%20among%20adolescents%20globally.%20However%2C%20school-based%20HPV%20vaccination%20strategies%20in%20the%20United%20States%20(US)%20have%20mainly%20focused%20on%20school-entry%20mandates%20for%20vaccination%2C%20which%20have%20passed%20in%20only%20five%20states%2Fjurisdictions.%20Many%20schools%20and%20school-based%20health%20centers%20(SBHCs)%20already%20provide%20health%20services%20to%20medically%20underserved%20adolescents%20and%20opportunities%20to%20improve%20disparities%20in%20HPV%20vaccine%20education%20and%20uptake%20are%20under%C2%AD%20explored.%20This%20qualitative%20study%20of%20clinic%20and%20community%20members%20assessed%20potential%20opportunities%20within%20and%20outside%20schools%20to%20increase%20HPV%20vaccination.%20Data%20were%20generated%20from%20a%20larger%20mixedmethods%20study%20designed%20to%20understand%20experiences%20with%20HPV%20vaccination%20evidence-based%20strategies%20in%20medically%20underserved%20communities.%20The%20parent%20study%20included%20interviews%20and%20focus%20groups%20conducted%20with%20clinic%20(providers%2C%20clinic%20leaders%2C%20staff)%20and%20community%20(racial%2Fethnic%20minority%20parents%2C%20advocates%2C%20payers%2C%20policy%20representatives)%20members%20in%20Los%20Angeles%20and%20New%20Jersey%20between%20December%202020January%202022.%20We%20created%20a%20reduced%20dataset%20of%20text%20related%20to%20schools%2FSBHCs%20(30%20in-depth%20interviews%2C%207%20focus%20groups)%20and%20conducted%20a%20directed%20content%20analysis.%20Participants%20indicated%20that%20schools%20and%20SBHCs%20are%20ideal%20venues%20for%20reaching%20medically%20underserved%20adolescents%20experiencing%20barriers%20to%20primary%20care%20access.%20Parents%2Fproviders%20expressed%20mutual%20interest%20in%20HPV%20vaccine%20administration%2Feducation%20in%20schools%2C%20but%20some%20advocates%2Fpolicy%20participants%20experienced%20challenges%20due%20to%20increasing%20politicization%20of%20vaccines.%20Participants%20highlighted%20policies%20for%20expanding%20HPV%20vaccine%20education%20and%20administration%20in%20schools%2C%20including%20minor%20consent%20and%20increasing%20SBHC%20funding%20for%20HPV%20vaccines.%20More%20research%20is%20needed%20to%20explore%20existing%20infrastructure%2C%20partner%20motivation%2C%20and%20opportunities%20to%20improve%20HPV%20vaccination%20among%20medically%20underserved%20adolescents%20within%20schools%20beyond%20vaccine%20mandates.%22%2C%22container-title%22%3A%22Human%20Vaccines%20%26%20Immunotherapeutics%22%2C%22DOI%22%3A%2210.1080%2F21645515.2023.2251815%22%2C%22ISSN%22%3A%222164-5515%2C%202164-554X%22%2C%22issue%22%3A%222%22%2C%22journalAbbreviation%22%3A%22Human%20Vaccines%20%26%20Immunotherapeutics%22%2C%22language%22%3A%22en%22%2C%22page%22%3A%222251815%22%2C%22source%22%3A%22DOI.org%20(Crossref)%22%2C%22title%22%3A%22Multilevel%20perspectives%20on%20school-based%20opportunities%20to%20improve%20HPV%20vaccination%20among%20medically%20underserved%20adolescents%3A%20Beyond%20school%20entry%20mandates%22%2C%22title-short%22%3A%22Multilevel%20perspectives%20on%20school-based%20opportunities%20to%20improve%20HPV%20vaccination%20among%20medically%20underserved%20adolescents%22%2C%22URL%22%3A%22https%3A%2F%2Fwww.tandfonline.com%2Fdoi%2Ffull%2F10.1080%2F21645515.2023.2251815%22%2C%22volume%22%3A%2219%22%2C%22author%22%3A%5B%7B%22family%22%3A%22Shin%22%2C%22given%22%3A%22Michelle%20B.%22%7D%2C%7B%22family%22%3A%22Sloan%22%2C%22given%22%3A%22Kylie%22%7D%2C%7B%22family%22%3A%22Baezconde-Garbanati%22%2C%22given%22%3A%22Lourdes%22%7D%2C%7B%22family%22%3A%22Dang%22%2C%22given%22%3A%22Emily%22%7D%2C%7B%22family%22%3A%22Garcia%22%2C%22given%22%3A%22Samantha%22%7D%2C%7B%22family%22%3A%22Palinkas%22%2C%22given%22%3A%22Lawrence%20A.%22%7D%2C%7B%22family%22%3A%22Unger%22%2C%22given%22%3A%22Jennifer%20B.%22%7D%2C%7B%22family%22%3A%22Willgerodt%22%2C%22given%22%3A%22Mayumi%22%7D%2C%7B%22family%22%3A%22Crabtree%22%2C%22given%22%3A%22Benjamin%20F.%22%7D%2C%7B%22family%22%3A%22Tsui%22%2C%22given%22%3A%22Jennifer%22%7D%5D%2C%22accessed%22%3A%7B%22date-parts%22%3A%5B%5B%222024%22%2C4%2C12%5D%5D%7D%2C%22issued%22%3A%7B%22date-parts%22%3A%5B%5B%222023%22%2C8%5D%5D%7D%7D%7D%5D&quot; data-schema-version=&quot;8&quot;&gt;&lt;p&gt;&lt;span class=&quot;highlight&quot; data-annotation=&quot;%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F14052267%2Fitems%2F4F6G945C%22%2C%22pageLabel%22%3A%221%22%2C%22position%22%3A%7B%22pageIndex%22%3A0%2C%22rects%22%3A%5B%5B327.454%2C308.401%2C561.421%2C318.401%5D%2C%5B310.734%2C296.043%2C561.448%2C306.043%5D%2C%5B310.734%2C283.626%2C349.473%2C295.624%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F14052267%2Fitems%2FQUCHN3IT%22%5D%2C%22locator%22%3A%221%22%7D%7D&quot;&gt;“chool-based HPV vaccination programs have improved uptake among adolescents globally and are standard in many countries”&lt;/span&gt; &lt;span class=&quot;citation&quot; data-citation=&quot;%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F14052267%2Fitems%2FQUCHN3IT%22%5D%2C%22locator%22%3A%221%22%7D%5D%2C%22properties%22%3A%7B%7D%7D&quot;&gt;(&lt;span class=&quot;citation-item&quot;&gt;Shin et al., 2023, p. 1&lt;/span&gt;)&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="https://www.cdc.gov/mmwr/volumes/65/wr/mm6549a5.htm">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0149-21951545-861X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Meites</foaf:surname>
+                        <foaf:givenName>Elissa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_69"/>
+        <link:link rdf:resource="#item_70"/>
+        <dc:subject>cdcDoseRecomend</dc:subject>
+        <dc:title>Use of a 2-Dose Schedule for Human Papillomavirus Vaccination — Updated Recommendations of the Advisory Committee on Immunization Practices</dc:title>
+        <dcterms:abstract>ACIP recommends two- or three-dose schedule of human papillomavirus vaccination, depending on age and other factors.</dcterms:abstract>
+        <dc:date>2016</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>www.cdc.gov</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cdc.gov/mmwr/volumes/65/wr/mm6549a5.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-14 21:15:49</dcterms:dateSubmitted>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0149-21951545-861X">
+        <prism:volume>65</prism:volume>
+        <dc:title>MMWR. Morbidity and Mortality Weekly Report</dc:title>
+        <dc:identifier>DOI 10.15585/mmwr.mm6549a5</dc:identifier>
+        <dcterms:alternative>MMWR Morb Mortal Wkly Rep</dcterms:alternative>
+        <dc:identifier>ISSN 0149-21951545-861X</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_69">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cdc.gov/mmwr/volumes/65/wr/pdfs/mm6549a5.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-14 21:15:51</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_70">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cdc.gov/mmwr/volumes/65/wr/mm6549a5.htm?utm_content=bufferbc81a&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-14 21:15:56</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_72">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_71"/>
+        <dc:subject>doseSchedule</dc:subject>
+        <dc:title>Indian Academy of Pediatrics (IAP) Advisory Committee on Vaccines and Immunization Practices (ACVIP): Recommended Immunization Schedule (2023) and Update on Immunization for Children Aged 0 Through 18 Years</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_71">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Indian Academy of Pediatrics (IAP) Advisory Committee on Vaccines and Immunization Practices (ACVIP): Recommended Immunization Schedule (2023) and Update on Immunization for Children Aged 0 Through 18 Years</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://iapindia.org/pdf/Indian-Pediatrics/2024/Indian-Pediatrics-February-2024-issue.pdf#page=9</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-14 21:25:30</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+        <dc:description>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://iapindia.org/pdf/Indian-Pediatrics/2024/Indian-Pediatrics-February-2024-issue.pdf#page=9&quot; rel=&quot;noopener noreferrer nofollow&quot;&gt;https://iapindia.org/pdf/Indian-Pediatrics/2024/Indian-Pediatrics-February-2024-issue.pdf#page=9&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</dc:description>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.health.ny.gov/diseases/communicable/human_papillomavirus/#:~:text=The%20New%20York%20State%20Department,9%20years%20as%20routine%20practice.">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:subject>dohWeb</dc:subject>
+        <dc:title>NYSDOH HPV web page</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.health.ny.gov/diseases/communicable/human_papillomavirus/#:~:text=The%20New%20York%20State%20Department,9%20years%20as%20routine%20practice.</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Document>
+    <bib:Report rdf:about="https://stacks.cdc.gov/view/cdc/145593">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>National Center for Health Statistics (U.S.)</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Villarroel</foaf:surname>
+                        <foaf:givenName>Maria</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Galinksy</foaf:surname>
+                        <foaf:givenName>Adena</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lu</foaf:surname>
+                        <foaf:givenName>Peng-Jun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pingali</foaf:surname>
+                        <foaf:givenName>Cassandra</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Valenzuela</foaf:surname>
+                        <foaf:givenName>Claudia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_75"/>
+        <dc:subject>usHPVrate</dc:subject>
+        <dc:title>Human Papillomavirus Vaccination Coverage in Children Ages 9–17 Years: United States, 2022</dc:title>
+        <dcterms:abstract>In 2022, 38.6% of children ages 9–17 years had received one or more HPV vaccine doses, and vaccination coverage increased with child’s increasing age, parental education, and family income. HPV vaccination was higher in children covered by private health insurance than those covered by Medicaid, other government programs, and those without insurance. Girls were more likely to have been vaccinated than boys. Children with disability were more likely to have been vaccinated than children without disability. HPV vaccination coverage was lower among Hispanic children compared with White children. Additionally, coverage was lower among children living in nonmetropolitan areas than those living in metropolitan areas.</dcterms:abstract>
+        <dc:date>2024-2-14</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Human Papillomavirus Vaccination Coverage in Children Ages 9–17 Years</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://stacks.cdc.gov/view/cdc/145593</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-14 21:49:01</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.15620/cdc:145593
+DOI: 10.15620/cdc:145593</dc:description>
+    </bib:Report>
+    <z:Attachment rdf:about="#item_75">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Villarroel et al. - 2024 - Human Papillomavirus Vaccination Coverage in Child.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cdc.gov/nchs/data/databriefs/db495.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-14 21:49:00</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10179975/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1525-4135"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rosenthal</foaf:surname>
+                        <foaf:givenName>Elizabeth M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Patterson</foaf:surname>
+                        <foaf:givenName>Wendy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chicoine</foaf:surname>
+                        <foaf:givenName>Joyce</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dorabawila</foaf:surname>
+                        <foaf:givenName>Vajeera</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Adamashvili</foaf:surname>
+                        <foaf:givenName>Natalia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rajulu</foaf:surname>
+                        <foaf:givenName>Deepa T.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rosenberg</foaf:surname>
+                        <foaf:givenName>Eli S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tesoriero</foaf:surname>
+                        <foaf:givenName>James M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_82"/>
+        <link:link rdf:resource="#item_83"/>
+        <dc:subject>nysiiscovid</dc:subject>
+        <dc:title>COVID-19 Vaccination and Hospitalization Among Persons Living With Diagnosed HIV in New York State</dc:title>
+        <dcterms:abstract>Persons living with diagnosed HIV (PLWDH) have higher COVID-19 diagnoses rates and poorer COVID-19–related outcomes than persons living without diagnosed HIV. The intersection of COVID-19 vaccination status and likelihood of severe COVID-19 outcomes has not been fully investigated for PLWDH.</dcterms:abstract>
+        <dc:date>2023-6-1</dc:date>
+        <z:libraryCatalog>PubMed Central</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10179975/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-14 22:55:22</dcterms:dateSubmitted>
+        <dc:description>PMID: 36853763
+PMCID: PMC10179975</dc:description>
+        <bib:pages>92-100</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1525-4135">
+        <prism:volume>93</prism:volume>
+        <dc:title>Journal of Acquired Immune Deficiency Syndromes (1999)</dc:title>
+        <dc:identifier>DOI 10.1097/QAI.0000000000003177</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>J Acquir Immune Defic Syndr</dcterms:alternative>
+        <dc:identifier>ISSN 1525-4135</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_82">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PubMed Central Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10179975/pdf/qai-93-092.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-14 22:55:25</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_83">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PubMed Central Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10179975/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-14 22:55:23</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.health.ny.gov/prevention/immunization/information_system/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_84"/>
+        <dc:subject>nysiis</dc:subject>
+        <dc:title>New York State Immunization Information System (NYSIIS)</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.health.ny.gov/prevention/immunization/information_system/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-14 22:37:36</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_84">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>New York State Immunization Information System (NYSIIS)</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.health.ny.gov/prevention/immunization/information_system/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-14 22:37:43</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.longisland.com/zip-codes.html#google_vignette">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_86"/>
+        <dc:subject>LIzipcode</dc:subject>
+        <dc:title>Long Island Zip Codes - Zip Codes for Nassau County &amp; Suffolk County | LongIsland.com</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.longisland.com/zip-codes.html#google_vignette</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-15 01:19:09</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_86">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Long Island Zip Codes - Zip Codes for Nassau County &amp; Suffolk County | LongIsland.com</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.longisland.com/zip-codes.html#google_vignette</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-15 01:19:14</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_87">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1330-027X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ljubojević</foaf:surname>
+                        <foaf:givenName>Suzana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_89"/>
+        <link:link rdf:resource="#item_88"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Adolescent</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Adult</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Child</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Drug Approval</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Female</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Human Papillomavirus Recombinant Vaccine Quadrivalent, Types 6, 11, 16, 18</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Humans</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Papillomavirus Infections</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Papillomavirus Vaccines</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>United States</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>hpvforgirls</dc:subject>
+        <dc:title>The human papillomavirus vaccines</dc:title>
+        <dcterms:abstract>Genital human papillomavirus (HPV) infection is the most common sexually transmitted infection (STI) among sexually active couples. Its annual incidence is approximately 5.5 million. Overall, an estimated 75% of sexually active men and women have been exposed to HPV at some point in their lives. HPV-16 and -18 account for about 70% of cancers of the cervix, vagina and anus, and for about 30%-40% of cancers of the vulva, penis and orophaynx. Cancer of the cervix uteri is the second most cancer among women worldwide. Cancer of the penis is a rare cancer, accounting for less than 0.5% of cancers in men. Spontaneous clearance of HPV infection is accompanied by humoral and cellular immune response against virus-specific antigens. Two vaccines, prophylactic and therapeutic ones, are considered. Prophylactic vaccines use L1 and L2 capsid proteins to induce production of conformationally-specific antibodies. They block HPV infection. Lone L1 and L2 proteins self-assemble into a capsid that is identical to the complete virion. In this way, an antibody-mediated response is induced before the body actually comes into contact with the live virion. Therapeutic vaccines are being developed to protect HPV-positive persons against tumor development. For these vaccines, researchers are targeting the activity of the E6 and E7 oncoproteines.On June 8, 2006, the U.S. Food and Drug Administration (FDA) approved an HPV vaccine for clinical use. The HPV vaccine that has been approved is the quadrivalent vaccine that consists of recombinant viral-like particles (VLPs) of HPV 6, 11, 16, 18 mixed with an aluminum-containing adjuvant. It is manufactured by Merck &amp; Co., Inc. and sold under the name of Gardasil?. The new vaccine is approved for use in females 9-26 years of age. The primary target population for vaccination should be females aged 11-12 years. However, vaccination can be given to girls as young as 9 years of age. Vaccination can receive women aged 13-26 years who have been sexually active. There are still no data on the vaccine efficacy in women older than 26, and currently no data to demonstrate the efficacy of vaccination in males; male subjects should not be vaccinated until such data become available. The vaccine is to be administered intramuscularly either into the deltoid muscle of the arm or the high anteriolateral area of the leg. Each patient receives three 0.5 mL doses given according to the following schedule: first dose is given at the elected date, second dose two months after the first dose, and third dose six months after the first dose. According to statements from Merck, the list price of the vaccine is 120 USD per dose. GlaxoSmithKline is now conducting a phase III trial of a bivalent (HPV 16, 18) vaccine, and it is going to be presented under the name of Cervarix. Similar results to those obtained with the quadrivalent HPV vaccine have been reported with the bivalent vaccine. It is expected to be released in June next year. Evaluation of the HPV vaccine efficiency in preventing dysplasia and cancer has been recommended as a globally accepted endpoint for population based studies.</dcterms:abstract>
+        <dc:date>2006</dc:date>
+        <z:language>eng</z:language>
+        <z:libraryCatalog>PubMed</z:libraryCatalog>
+        <dc:description>PMID: 17010274</dc:description>
+        <bib:pages>208</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1330-027X">
+        <prism:volume>14</prism:volume>
+        <dc:title>Acta dermatovenerologica Croatica: ADC</dc:title>
+        <prism:number>3</prism:number>
+        <dcterms:alternative>Acta Dermatovenerol Croat</dcterms:alternative>
+        <dc:identifier>ISSN 1330-027X</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_89">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;HPV approve for girls in 2006&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_88">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PubMed entry</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.ncbi.nlm.nih.gov/pubmed/17010274</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-16 01:34:00</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://my.clevelandclinic.org/health/treatments/21613-hpv-vaccine">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Cleveland Clinic</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <dcterms:isReferencedBy rdf:resource="#item_92"/>
+        <link:link rdf:resource="#item_91"/>
+        <dc:subject>hpvforboys</dc:subject>
+        <dc:title>What Is the HPV Vaccine?</dc:title>
+        <dcterms:abstract>The HPV vaccine is recommended as part of routine vaccination in children 11 to 12 and for adults up to and including age 45. Here’s why you need it.</dcterms:abstract>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://my.clevelandclinic.org/health/treatments/21613-hpv-vaccine</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-16 01:36:30</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Memo rdf:about="#item_92">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;hpv approve for males in 2011&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_91">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://my.clevelandclinic.org/health/treatments/21613-hpv-vaccine</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-16 01:36:33</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.jmir.org/2021/8/e26478">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1438-8871"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Du</foaf:surname>
+                        <foaf:givenName>Jingcheng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Preston</foaf:surname>
+                        <foaf:givenName>Sharice</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sun</foaf:surname>
+                        <foaf:givenName>Hanxiao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shegog</foaf:surname>
+                        <foaf:givenName>Ross</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cunningham</foaf:surname>
+                        <foaf:givenName>Rachel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Boom</foaf:surname>
+                        <foaf:givenName>Julie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Savas</foaf:surname>
+                        <foaf:givenName>Lara</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Amith</foaf:surname>
+                        <foaf:givenName>Muhammad</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tao</foaf:surname>
+                        <foaf:givenName>Cui</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_96"/>
+        <dc:title>Using Machine Learning–Based Approaches for the Detection and Classification of Human Papillomavirus Vaccine Misinformation: Infodemiology Study of Reddit Discussions</dc:title>
+        <dcterms:abstract>Background: The rapid growth of social media as an information channel has made it possible to quickly spread inaccurate or false vaccine information, thus creating obstacles for vaccine promotion.
+Objective: The aim of this study is to develop and evaluate an intelligent automated protocol for identifying and classifying human papillomavirus (HPV) vaccine misinformation on social media using machine learning (ML)–based methods.
+Methods: Reddit posts (from 2007 to 2017, N=28,121) that contained keywords related to HPV vaccination were compiled. A random subset (2200/28,121, 7.82%) was manually labeled for misinformation and served as the gold standard corpus for evaluation. A total of 5 ML-based algorithms, including a support vector machine, logistic regression, extremely randomized trees, a convolutional neural network, and a recurrent neural network designed to identify vaccine misinformation, were evaluated for identification performance. Topic modeling was applied to identify the major categories associated with HPV vaccine misinformation.
+Results: A convolutional neural network model achieved the highest area under the receiver operating characteristic curve of 0.7943. Of the 28,121 Reddit posts, 7207 (25.63%) were classified as vaccine misinformation, with discussions about general safety issues identified as the leading type of misinformed posts (2666/7207, 36.99%).
+Conclusions: ML-based approaches are effective in the identification and classification of HPV vaccine misinformation on Reddit and may be generalizable to other social media platforms. ML-based methods may provide the capacity and utility to meet the challenge involved in intelligent automated monitoring and classification of public health misinformation on social media platforms. The timely identification of vaccine misinformation on the internet is the first step in misinformation correction and vaccine promotion.</dcterms:abstract>
+        <dc:date>2021-8-5</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Using Machine Learning–Based Approaches for the Detection and Classification of Human Papillomavirus Vaccine Misinformation</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.jmir.org/2021/8/e26478</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-20 15:29:01</dcterms:dateSubmitted>
+        <bib:pages>e26478</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1438-8871">
+        <prism:volume>23</prism:volume>
+        <dc:title>Journal of Medical Internet Research</dc:title>
+        <dc:identifier>DOI 10.2196/26478</dc:identifier>
+        <prism:number>8</prism:number>
+        <dcterms:alternative>J Med Internet Res</dcterms:alternative>
+        <dc:identifier>ISSN 1438-8871</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_96">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Du et al. - 2021 - Using Machine Learning–Based Approaches for the De.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1186/s12889-021-11664-1">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1471-2458"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Prabhu</foaf:surname>
+                        <foaf:givenName>Vimalanand S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bansal</foaf:surname>
+                        <foaf:givenName>Neha</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Zhiwen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Finalle</foaf:surname>
+                        <foaf:givenName>Rodney</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sénécal</foaf:surname>
+                        <foaf:givenName>Martin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kothari</foaf:surname>
+                        <foaf:givenName>Smita</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Trowers</foaf:surname>
+                        <foaf:givenName>Kemar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Myers</foaf:surname>
+                        <foaf:givenName>Evan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_99"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>HPV vaccine</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Human papillomavirus</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Insurance claims data</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Sex differences</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Temporal trends</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Vaccination uptake</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>HPV vaccination uptake and administration from 2006 to 2016 in a commercially insured population of the United States</dc:title>
+        <dcterms:abstract>Human papillomavirus (HPV) infection can cause various cancers and can be prevented through vaccination. The American Cancer Society (ACS) has set an HPV vaccination completion target in 13-year-old children to 80% by 2026. While HPV vaccine coverage (proportion ever vaccinated) estimates are available, annual uptakes (proportion initiating vaccine in a year) in the United States (U.S.) are not well-known.</dcterms:abstract>
+        <dc:date>2021-09-06</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Springer Link</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1186/s12889-021-11664-1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-23 20:49:22</dcterms:dateSubmitted>
+        <bib:pages>1629</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1471-2458">
+        <prism:volume>21</prism:volume>
+        <dc:title>BMC Public Health</dc:title>
+        <dc:identifier>DOI 10.1186/s12889-021-11664-1</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>BMC Public Health</dcterms:alternative>
+        <dc:identifier>ISSN 1471-2458</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_99">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/content/pdf/10.1186%2Fs12889-021-11664-1.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-23 20:49:23</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://pressroom.cancer.org/HPVcancerfreelaunch">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+            <z:Website>
+               <dc:title>American Cancer Society MediaRoom</dc:title>
+            </z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_101"/>
+        <dc:subject>acsTarget</dc:subject>
+        <dc:title>American Cancer Society Launches Campaign to Eliminate Cervical Cancer</dc:title>
+        <dcterms:abstract>The American Cancer Society (ACS) is committing to work towards eliminating cervical cancer in the United States in the next 40 years by increasing HPV vaccination rates and continued screening....</dcterms:abstract>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pressroom.cancer.org/HPVcancerfreelaunch</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-23 21:29:04</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_101">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pressroom.cancer.org/HPVcancerfreelaunch</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-23 21:29:11</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://bmjopen.bmj.com/content/8/2/e019005">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2044-6055,%202044-6055"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hansen</foaf:surname>
+                        <foaf:givenName>Bo T.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Campbell</foaf:surname>
+                        <foaf:givenName>Suzanne</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nygård</foaf:surname>
+                        <foaf:givenName>Mari</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_103"/>
+        <link:link rdf:resource="#item_104"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>epidemiology</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>preventive medicine</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>public health</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Long-term incidence trends of HPV-related cancers, and cases preventable by HPV vaccination: a registry-based study in Norway</dc:title>
+        <dcterms:abstract>Objectives Examine long-term incidence trends of human papillomavirus (HPV)-related cancer in Norway, and estimate the number of cancer cases preventable by vaccines against HPV 16/18 or HPV 16/18/31/33/45/52/58.
+Design Observational registry-based study. We extracted incident cases of HPV-related cancer during 1953–2015 from the Cancer Registry of Norway. Tumour HPV prevalence estimates from large international meta-analyses or from Norway were used to estimate the protective potential of HPV vaccines.
+Participants and setting The Norwegian population.
+Primary outcome measures Incidence trend analyses during 1953–2015 for squamous cell carcinoma (SCC) of the cervix, vulva, vagina, oropharynx, anus and penis, and adenocarcinoma of the cervix. Additionally, the number of cancer cases preventable by HPV vaccination.
+Results Among women, incidences of SCC of the anus, oropharynx, vulva and cervical adenocarcinoma increased, while vaginal SCC showed no trend. For these cancers combined, the average annual percentage change (AAPC) during 1953–2015 was 1.2 (95% CI 0.7 to 1.6). The incidence of cervical SCC generally decreased during 1976–2004 and remained stable thereafter. Among men, incidences of SCC of the anus, oropharynx and penis increased. The AAPC during 1953–2015 combined for all male HPV-related cancer was 1.9 (95% CI 1.3 to 2.5). A vaccine against HPV 16/18 might yearly prevent 402 (95% CI 382 to 420) cancers. A vaccine against HPV 16/18/31/33/45/52/58 might yearly prevent 478 (95% CI 464 to 490) cancers, of which 206 (95% CI 202 to 209) occur in non-cervical organs, and 113 (95% CI 110 to 115) occur among men.
+Conclusions The incidences of HPV-related cancers that are not effectively prevented by screening have generally increased during 1953–2015. HPV vaccination can prevent a substantial number of cancers in Norway, in cervical and non-cervical organs, among women and men.</dcterms:abstract>
+        <dc:date>2018/02/01</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Long-term incidence trends of HPV-related cancers, and cases preventable by HPV vaccination</z:shortTitle>
+        <z:libraryCatalog>bmjopen.bmj.com</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://bmjopen.bmj.com/content/8/2/e019005</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-23 22:36:45</dcterms:dateSubmitted>
+        <dc:rights>© Article author(s) (or their employer(s) unless otherwise stated in the text of the article) 2018. All rights reserved. No commercial use is permitted unless otherwise expressly granted.. This is an Open Access article distributed in accordance with the Creative Commons Attribution Non Commercial (CC BY-NC 4.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially, and license their derivative works on different terms, provided the original work is properly cited and the use is non-commercial. See: http://creativecommons.org/licenses/by-nc/4.0/</dc:rights>
+        <dc:description>Publisher: British Medical Journal Publishing Group
+Section: Epidemiology
+PMID: 29476028</dc:description>
+        <bib:pages>e019005</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2044-6055,%202044-6055">
+        <prism:volume>8</prism:volume>
+        <dc:title>BMJ Open</dc:title>
+        <dc:identifier>DOI 10.1136/bmjopen-2017-019005</dc:identifier>
+        <prism:number>2</prism:number>
+        <dc:identifier>ISSN 2044-6055, 2044-6055</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_103">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://bmjopen.bmj.com/content/bmjopen/8/2/e019005.full.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-23 22:36:49</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_104">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PubMed entry</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.ncbi.nlm.nih.gov/pubmed/29476028</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-23 22:36:50</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S1054139X17302215">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1054-139X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vielot</foaf:surname>
+                        <foaf:givenName>Nadja A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Butler</foaf:surname>
+                        <foaf:givenName>Anne M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brookhart</foaf:surname>
+                        <foaf:givenName>M. Alan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Becker-Dreps</foaf:surname>
+                        <foaf:givenName>Sylvia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Smith</foaf:surname>
+                        <foaf:givenName>Jennifer S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_107"/>
+        <link:link rdf:resource="#item_106"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Human papillomavirus</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Adolescents</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Coadministration</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Health care providers</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Meningococcal conjugate vaccine</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Tetanus-diphtheria-acellular pertussis vaccine</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Vaccination</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>UShpvPatterns</dc:subject>
+        <dc:title>Patterns of Use of Human Papillomavirus and Other Adolescent Vaccines in the United States</dc:title>
+        <dcterms:abstract>Purpose
+The purpose of the study was to describe the patterns of use of universally recommended adolescent vaccines in the United States.
+Methods
+We identified 11-year-olds using the MarketScan insurance claims database (2009–2014). Human papillomavirus (HPV), tetanus-diphtheria-acellular pertussis (Tdap), and meningococcal (MenACWY) vaccination claims were identified using diagnosis and procedure codes. Generalized linear models estimated vaccination incidence rates and correlates of adolescent vaccination and timely vaccination.
+Results
+Among 1,691,223 adolescents, receipt of Tdap (52.1%) and MenACWY (45.8%) vaccinations exceeded receipt of HPV vaccination (18.4%). While both sexes had similar Tdap and MenACWY vaccination proportions, girls received HPV vaccination more frequently than boys (21.9% vs. 15.1%). Adolescents received HPV vaccination later (mean age: 11.8 years) than Tdap or MenACWY vaccination (mean age: 11.2 years for both). Half of vaccinated adolescents received Tdap and MenACWY vaccination only; however, coadministration with HPV vaccine increased with birth cohort. Western adolescents had the highest incidence rates of HPV vaccination, and Southern adolescents had the lowest. Rural adolescents were less likely than urban adolescents to receive each vaccination except in the Northeast, where they were more likely to receive HPV vaccination (incidence rate ratio: 1.09, 95% confidence interval: 1.2005–1.13). Timely HPV vaccination was associated with female sex, urbanicity, Western residence, and later birth cohort.
+Conclusions
+HPV vaccination occurred later than Tdap or MenACWY vaccination and was less frequent in boys and rural adolescents. Girls, Western and urban residents, and younger birth cohorts were more likely to receive timely HPV vaccination. Vaccine coadministration increased over time and may encourage timely and complete vaccination coverage.</dcterms:abstract>
+        <dc:date>2017-09-01</dc:date>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S1054139X17302215</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-23 22:37:51</dcterms:dateSubmitted>
+        <bib:pages>281-287</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1054-139X">
+        <prism:volume>61</prism:volume>
+        <dc:title>Journal of Adolescent Health</dc:title>
+        <dc:identifier>DOI 10.1016/j.jadohealth.2017.05.016</dc:identifier>
+        <prism:number>3</prism:number>
+        <dcterms:alternative>Journal of Adolescent Health</dcterms:alternative>
+        <dc:identifier>ISSN 1054-139X</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_107">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.jahonline.org/article/S1054139X17302215/pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-23 22:37:56</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_106">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S1054139X17302215</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-23 22:37:56</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.tandfonline.com/doi/epdf/10.1080/21645515.2022.2161253?needAccess=true">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_109"/>
+        <dc:title>HPV vaccine initiation at 9 or 10 years of age and better series completion by age 13 among privately and publicly insured children in the US</dc:title>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tandfonline.com/doi/epdf/10.1080/21645515.2022.2161253?needAccess=true</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-23 22:41:20</dcterms:dateSubmitted>
+        <dc:description>ISSN: 2164-5515</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_109">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tandfonline.com/doi/epdf/10.1080/21645515.2022.2161253?needAccess=true</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-23 22:41:23</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0091743516000426">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0091-7435"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Thompson</foaf:surname>
+                        <foaf:givenName>Erika L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vamos</foaf:surname>
+                        <foaf:givenName>Cheryl A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vázquez-Otero</foaf:surname>
+                        <foaf:givenName>Coralia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Logan</foaf:surname>
+                        <foaf:givenName>Rachel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Griner</foaf:surname>
+                        <foaf:givenName>Stacey</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Daley</foaf:surname>
+                        <foaf:givenName>Ellen M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_111"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>College</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>HPV vaccination</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Trends</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Trends and predictors of HPV vaccination among U.S. College women and men</dc:title>
+        <dcterms:abstract>Background
+HPV vaccination was recommended by the Advisory Committee on Immunization Practices for young adult females in 2006 and males in 2011 to prevent HPV-related cancers and genital warts. As this prevention mechanism continues to disseminate, it is necessary to monitor the uptake of this vaccine. College students represent an important population for HPV vaccination efforts and surveillance due to increased risk for HPV infection and representing a priority population for catch-up HPV vaccination. The purpose of this study was to assess the trends in HPV vaccination among U.S. college females and males from 2009 to 2013, and to examine whether predictors for HPV vaccination differ between males and females.
+Methods
+The National College Health Assessment-II (Fall 2009–2013) was used to assess trends in HPV vaccination using hierarchical logistic regression across genders and demographics. Data from 2013 were used to assess demographic variables associated with HPV vaccination for males and females, respectively. The analysis was conducted in 2015.
+Results
+Females had nearly double the rates of HPV vaccination compared to males over time. All demographic sub-groups had significant increases in vaccine rates over time, with select male sub-groups having more accelerated increases (e.g., gay). Young age (18–21 vs. 22–26years) was a significant predictor for HPV vaccination among males and females, while race/ethnicity was a predictor of vaccination among females only.
+Conclusions
+These findings identified specific demographic sub-groups that need continued support for HPV vaccination. Campus health centers may be rational settings to facilitate clinical opportunities for HPV vaccination among unvaccinated college students.</dcterms:abstract>
+        <dc:date>2016-05-01</dc:date>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0091743516000426</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-23 22:41:24</dcterms:dateSubmitted>
+        <bib:pages>92-98</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0091-7435">
+        <prism:volume>86</prism:volume>
+        <dc:title>Preventive Medicine</dc:title>
+        <dc:identifier>DOI 10.1016/j.ypmed.2016.02.003</dc:identifier>
+        <dcterms:alternative>Preventive Medicine</dcterms:alternative>
+        <dc:identifier>ISSN 0091-7435</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_111">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0091743516000426</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-23 22:41:30</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://publications.aap.org/pediatrics/article/146/4/e20193557/79674/Trends-in-Human-Papillomavirus-Vaccination-in">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>146</prism:volume>
+                <dc:title>Pediatrics</dc:title>
+                <dc:identifier>DOI 10.1542/peds.2019-3557</dc:identifier>
+                <prism:number>4</prism:number>
+                <dc:identifier>ISSN 0031-4005, 1098-4275</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenName>Szu-Ta</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Huybrechts</foaf:surname>
+                        <foaf:givenName>Krista F.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bateman</foaf:surname>
+                        <foaf:givenName>Brian T.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hernández-Díaz</foaf:surname>
+                        <foaf:givenName>Sonia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_114"/>
+        <dc:title>Trends in Human Papillomavirus Vaccination in Commercially Insured Children in the United States</dc:title>
+        <dcterms:abstract>OBJECTIVES: The human papillomavirus (HPV) vaccine was recommended in 2006 for girls and in 2011 for boys. The Healthy People 2020 goal for 2-dose HPV vaccination coverage is 80% by age 15 for girls and boys. We used nationwide population-based data to describe trends in HPV vaccination in children.
+METHODS: We conducted a cohort study nested within the MarketScan health care database between January 2003 and December 2017. Children were followed from the year they turned 9 until HPV vaccination, insurance disenrollment, or the end of the year when they turned 17, whichever came ﬁrst. We estimated the cumulative incidence of at least 1- and 2-dose HPV vaccination, stratiﬁed by birth year, sex, and state. In secondary analyses, we evaluated the association between state-level vaccination policies and HPV vaccination coverage.
+RESULTS: This study included 7 837 480 children and 19.8 million person-years. The proportion of 15-year-old girls and boys with at least a 1-dose HPV vaccination increased from 38% and 5% in 2011 to 57% and 51% in 2017, respectively; the proportion with at least a 2-dose vaccination went from 30% and 2% in 2011 to 46% and 39% in 2017, respectively. By 2017, 2-dose HPV vaccination coverage varied from 80% in Washington, District of Columbia, among girls to 15% in Mississippi among boys and was positively correlated with legislation for HPV vaccine education and pediatrician availability.
+CONCLUSIONS: Despite the increasing trends in uptake, HPV vaccine coverage among commercially insured children in the United States remains behind target levels, with substantial disparities by state.</dcterms:abstract>
+        <dc:date>2020-10-01</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://publications.aap.org/pediatrics/article/146/4/e20193557/79674/Trends-in-Human-Papillomavirus-Vaccination-in</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-23 22:41:38</dcterms:dateSubmitted>
+        <bib:pages>e20193557</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_114">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Chen et al. - 2020 - Trends in Human Papillomavirus Vaccination in Comm.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://watermark.silverchair.com/peds_20193557.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA0AwggM8BgkqhkiG9w0BBwagggMtMIIDKQIBADCCAyIGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMca2HlXg6MDUxUXtDAgEQgIIC820AKCcl5Y_jUMyLMdnTkyI8u8rq_DAG5ciBwrJa-HEeKDzZJIQSfaCQ0YrSokt_tNjRH8rFAh6Dqu7l6oG57oGpoP1JbcoiM6y-yjwcYeEc8u3qJvgCaRrZ3M6QozbohHQZ7tj8-t-ihLvRQOkw58nKGuwdSU7X3we-Coj6zT27cdkMfNS97XsvMpRIEhNsgFg_AbSLRmsUmGnwG9nUMTZq3cZ15uItbXZ5f7cMeGR_2O4fxxUfGJLdv0fIWYhyffKUbB7ZvKDJfwYcx1ErwNpwh0dq_XVwtU4r3dtNJozS67oarHVYsfAEbc7lZ3BlY56X4iKUbIqSeRkEmdOYPaMj1nWFjooXlQdBKN9wt_dnen4m5mYPhZyBjZB-UZvxYhXqTsLPn5AZcSFlnvG0gHtVxLNItMLrbxgHN0pnIUZWkPTe0JpSeBrVc8E5MZ_CSBJrtsZ8P7_d4vLuGCL2EgNqgDFeLfsQxpVinXYLsFVcd7MgSCl9mLvvjDXffTqVViqTofLxqjFIeWZv8aW4Ds05dy9sVosqlHz5WYkd6u5pbtDBkRIijTUVgSA8ABqu1sjJy1q9vBbBASx0jM2TuBnRBzmIl_vD20NCiPR-8LfvZSSmhivzegMENcggHVJeRWd7PJWPzC7beFyLzx1tPrOkNBZVMS744fuijNbLFLwFBmuNvzQdnU2YkX8ILXKjByX6RoKynUkDoxsWqxWWX8jlBOgpRrgdki7b_XVKwjiEAqORRsZFg0Z3RFkRmFNmbYRI53FUU0iMgT2_qpGPaSDND0LfTDvNDBV8M09Mjwn8-4UVyFFSMcuMEev7NaAbSG0ZT6jNOmwIcJltlg8xdM3tWUPfh76tuP1jE3_fThLxclvEhDnwefck4-KgZolcbdKqfml-SWgKT_NaFvLrlHMyb3tDY8luvDslvbCMaGkTRuqR8TO266VlO6xcxZgazlBCGyzgmvo0ZyV2B4bZhMjhWJQQga-JsNwZs-JYH4vKUohX</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-23 22:41:36</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.nature.com/articles/s41598-021-84148-2">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2045-2322"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenName>Xin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hou</foaf:surname>
+                        <foaf:givenName>Wei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rashidian</foaf:surname>
+                        <foaf:givenName>Sina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Yu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhao</foaf:surname>
+                        <foaf:givenName>Xia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Leibowitz</foaf:surname>
+                        <foaf:givenName>George Stuart</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rosenthal</foaf:surname>
+                        <foaf:givenName>Richard N.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Saltz</foaf:surname>
+                        <foaf:givenName>Mary</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Saltz</foaf:surname>
+                        <foaf:givenName>Joel H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schoenfeld</foaf:surname>
+                        <foaf:givenName>Elinor Randi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Fusheng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_118"/>
+        <dc:title>A large-scale retrospective study of opioid poisoning in New York State with implications for targeted interventions</dc:title>
+        <dcterms:abstract>Abstract
+            Opioid overdose related deaths have increased dramatically in recent years. Combating the opioid epidemic requires better understanding of the epidemiology of opioid poisoning (OP). To discover trends and patterns of opioid poisoning and the demographic and regional disparities, we analyzed large scale patient visits data in New York State (NYS). Demographic, spatial, temporal and correlation analyses were performed for all OP patients extracted from the claims data in the New York Statewide Planning and Research Cooperative System (SPARCS) from 2010 to 2016, along with Decennial US Census and American Community Survey zip code level data. 58,481 patients with at least one OP diagnosis and a valid NYS zip code address were included. Main outcome and measures include OP patient counts and rates per 100,000 population, patient level factors (gender, age, race and ethnicity, residential zip code), and zip code level social demographic factors. The results showed that the OP rate increased by 364.6%, and by 741.5% for the age group &gt; 65 years. There were wide disparities among groups by race and ethnicity on rates and age distributions of OP. Heroin and non-heroin based OP rates demonstrated distinct temporal trends as well as major geospatial variation. The findings highlighted strong demographic disparity of OP patients, evolving patterns and substantial geospatial variation.</dcterms:abstract>
+        <dc:date>2021-03-04</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.nature.com/articles/s41598-021-84148-2</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-26 15:16:48</dcterms:dateSubmitted>
+        <bib:pages>5152</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2045-2322">
+        <prism:volume>11</prism:volume>
+        <dc:title>Scientific Reports</dc:title>
+        <dc:identifier>DOI 10.1038/s41598-021-84148-2</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Sci Rep</dcterms:alternative>
+        <dc:identifier>ISSN 2045-2322</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_118">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Chen et al. - 2021 - A large-scale retrospective study of opioid poison.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.cdc.gov/nchs/products/databriefs/db495.htm">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_121"/>
+        <dc:subject>cdcHPVtrends</dc:subject>
+        <dc:subject>2022cdcHPV</dc:subject>
+        <dc:title>Human Papillomavirus Vaccination Coverage in Children Ages 9–17 Years: United States, 2022</dc:title>
+        <dcterms:abstract>Human Papillomavirus Vaccination Coverage in Children Ages 9–17 Years: United States, 2022</dcterms:abstract>
+        <dc:date>2024-02-13T05:42:53Z</dc:date>
+        <z:language>en-us</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cdc.gov/nchs/products/databriefs/db495.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-29 20:39:50</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.15620/cdc:145593
+DOI: 10.15620/cdc:145593</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_121">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cdc.gov/nchs/products/databriefs/db495.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-29 20:39:56</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.cdc.gov/hpv/partners/outreach-hcp/hpv-coverage.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_122"/>
+        <dc:title>HPV Vaccination: Understanding HPV Coverage | CDC</dc:title>
+        <dcterms:abstract>&quot;How are we doing with protecting preteens with HPV vaccination in the U.S.?&quot; Find HPV vaccination coverage data, NIS-Teen data, President's Cancer Panel Report, HP2020, and The Community Guide.</dcterms:abstract>
+        <dc:date>2022-12-21T03:38:29Z</dc:date>
+        <z:language>en-us</z:language>
+        <z:shortTitle>HPV Vaccination</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cdc.gov/hpv/partners/outreach-hcp/hpv-coverage.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-29 20:39:44</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_122">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cdc.gov/hpv/partners/outreach-hcp/hpv-coverage.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-29 20:39:47</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_123">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1545-8601"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Markowitz</foaf:surname>
+                        <foaf:givenName>Lauri E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dunne</foaf:surname>
+                        <foaf:givenName>Eileen F.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Saraiya</foaf:surname>
+                        <foaf:givenName>Mona</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chesson</foaf:surname>
+                        <foaf:givenName>Harrell W.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Curtis</foaf:surname>
+                        <foaf:givenName>C. Robinette</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gee</foaf:surname>
+                        <foaf:givenName>Julianne</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bocchini</foaf:surname>
+                        <foaf:givenName>Joseph A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Unger</foaf:surname>
+                        <foaf:givenName>Elizabeth R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Centers for Disease Control and Prevention (CDC)</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_133"/>
+        <link:link rdf:resource="#item_126"/>
+        <link:link rdf:resource="#item_127"/>
+        <dc:subject>usHPVrecomend</dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Adolescent</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Adult</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Child</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Female</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Humans</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Papillomavirus Infections</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Papillomavirus Vaccines</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>United States</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Vaccination</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>ACIP</dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Advisory Committees</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Centers for Disease Control and Prevention, U.S.</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Immunization Schedule</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Male</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Middle Aged</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Pregnancy</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Randomized Controlled Trials as Topic</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Young Adult</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Human papillomavirus vaccination: recommendations of the Advisory Committee on Immunization Practices (ACIP)</dc:title>
+        <dcterms:abstract>This report summarizes the epidemiology of human papillomavirus (HPV) and associated diseases, describes the licensed HPV vaccines, provides updated data from clinical trials and postlicensure safety studies, and compiles recommendations from CDC's Advisory Committee on Immunization Practices (ACIP) for use of HPV vaccines. Persistent infection with oncogenic HPV types can cause cervical cancer in women as well as other anogenital and oropharyngeal cancers in women and men. HPV also causes genital warts. Two HPV vaccines are licensed in the United States. Both are composed of type-specific HPV L1 protein, the major capsid protein of HPV. Expression of the L1 protein using recombinant DNA technology produces noninfectious virus-like particles (VLPs). Quadrivalent HPV vaccine (HPV4) contains four HPV type-specific VLPs prepared from the L1 proteins of HPV 6, 11, 16, and 18. Bivalent HPV vaccine (HPV2) contains two HPV type-specific VLPs prepared from the L1 proteins of HPV 16 and 18. Both vaccines are administered in a 3-dose series. ACIP recommends routine vaccination with HPV4 or HPV2 for females aged 11 or 12 years and with HPV4 for males aged 11 or 12 years. Vaccination also is recommended for females aged 13 through 26 years and for males aged 13 through 21 years who were not vaccinated previously. Males aged 22 through 26 years may be vaccinated. ACIP recommends vaccination of men who have sex with men and immunocompromised persons (including those with HIV infection) through age 26 years if not previously vaccinated. As a compendium of all current recommendations for use of HPV vaccines, information in this report is intended for use by clinicians, vaccination providers, public health officials, and immunization program personnel as a resource. ACIP recommendations are reviewed periodically and are revised as indicated when new information and data become available.</dcterms:abstract>
+        <dc:date>2014-08-29</dc:date>
+        <z:language>eng</z:language>
+        <z:shortTitle>Human papillomavirus vaccination</z:shortTitle>
+        <z:libraryCatalog>PubMed</z:libraryCatalog>
+        <dc:description>PMID: 25167164</dc:description>
+        <bib:pages>1-30</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1545-8601">
+        <prism:volume>63</prism:volume>
+        <dc:title>MMWR. Recommendations and reports: Morbidity and mortality weekly report. Recommendations and reports</dc:title>
+        <prism:number>RR-05</prism:number>
+        <dcterms:alternative>MMWR Recomm Rep</dcterms:alternative>
+        <dc:identifier>ISSN 1545-8601</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_133">
+        <rdf:value>&lt;div data-citation-items=&quot;%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F14052267%2Fitems%2FQUCHN3IT%22%5D%2C%22itemData%22%3A%7B%22id%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F14052267%2Fitems%2FQUCHN3IT%22%2C%22type%22%3A%22article-journal%22%2C%22abstract%22%3A%22School-based%20HPV%20vaccination%20programs%20have%20improved%20vaccine%20uptake%20among%20adolescents%20globally.%20However%2C%20school-based%20HPV%20vaccination%20strategies%20in%20the%20United%20States%20(US)%20have%20mainly%20focused%20on%20school-entry%20mandates%20for%20vaccination%2C%20which%20have%20passed%20in%20only%20five%20states%2Fjurisdictions.%20Many%20schools%20and%20school-based%20health%20centers%20(SBHCs)%20already%20provide%20health%20services%20to%20medically%20underserved%20adolescents%20and%20opportunities%20to%20improve%20disparities%20in%20HPV%20vaccine%20education%20and%20uptake%20are%20under%C2%AD%20explored.%20This%20qualitative%20study%20of%20clinic%20and%20community%20members%20assessed%20potential%20opportunities%20within%20and%20outside%20schools%20to%20increase%20HPV%20vaccination.%20Data%20were%20generated%20from%20a%20larger%20mixedmethods%20study%20designed%20to%20understand%20experiences%20with%20HPV%20vaccination%20evidence-based%20strategies%20in%20medically%20underserved%20communities.%20The%20parent%20study%20included%20interviews%20and%20focus%20groups%20conducted%20with%20clinic%20(providers%2C%20clinic%20leaders%2C%20staff)%20and%20community%20(racial%2Fethnic%20minority%20parents%2C%20advocates%2C%20payers%2C%20policy%20representatives)%20members%20in%20Los%20Angeles%20and%20New%20Jersey%20between%20December%202020January%202022.%20We%20created%20a%20reduced%20dataset%20of%20text%20related%20to%20schools%2FSBHCs%20(30%20in-depth%20interviews%2C%207%20focus%20groups)%20and%20conducted%20a%20directed%20content%20analysis.%20Participants%20indicated%20that%20schools%20and%20SBHCs%20are%20ideal%20venues%20for%20reaching%20medically%20underserved%20adolescents%20experiencing%20barriers%20to%20primary%20care%20access.%20Parents%2Fproviders%20expressed%20mutual%20interest%20in%20HPV%20vaccine%20administration%2Feducation%20in%20schools%2C%20but%20some%20advocates%2Fpolicy%20participants%20experienced%20challenges%20due%20to%20increasing%20politicization%20of%20vaccines.%20Participants%20highlighted%20policies%20for%20expanding%20HPV%20vaccine%20education%20and%20administration%20in%20schools%2C%20including%20minor%20consent%20and%20increasing%20SBHC%20funding%20for%20HPV%20vaccines.%20More%20research%20is%20needed%20to%20explore%20existing%20infrastructure%2C%20partner%20motivation%2C%20and%20opportunities%20to%20improve%20HPV%20vaccination%20among%20medically%20underserved%20adolescents%20within%20schools%20beyond%20vaccine%20mandates.%22%2C%22container-title%22%3A%22Human%20Vaccines%20%26%20Immunotherapeutics%22%2C%22DOI%22%3A%2210.1080%2F21645515.2023.2251815%22%2C%22ISSN%22%3A%222164-5515%2C%202164-554X%22%2C%22issue%22%3A%222%22%2C%22journalAbbreviation%22%3A%22Human%20Vaccines%20%26%20Immunotherapeutics%22%2C%22language%22%3A%22en%22%2C%22page%22%3A%222251815%22%2C%22source%22%3A%22DOI.org%20(Crossref)%22%2C%22title%22%3A%22Multilevel%20perspectives%20on%20school-based%20opportunities%20to%20improve%20HPV%20vaccination%20among%20medically%20underserved%20adolescents%3A%20Beyond%20school%20entry%20mandates%22%2C%22title-short%22%3A%22Multilevel%20perspectives%20on%20school-based%20opportunities%20to%20improve%20HPV%20vaccination%20among%20medically%20underserved%20adolescents%22%2C%22URL%22%3A%22https%3A%2F%2Fwww.tandfonline.com%2Fdoi%2Ffull%2F10.1080%2F21645515.2023.2251815%22%2C%22volume%22%3A%2219%22%2C%22author%22%3A%5B%7B%22family%22%3A%22Shin%22%2C%22given%22%3A%22Michelle%20B.%22%7D%2C%7B%22family%22%3A%22Sloan%22%2C%22given%22%3A%22Kylie%22%7D%2C%7B%22family%22%3A%22Baezconde-Garbanati%22%2C%22given%22%3A%22Lourdes%22%7D%2C%7B%22family%22%3A%22Dang%22%2C%22given%22%3A%22Emily%22%7D%2C%7B%22family%22%3A%22Garcia%22%2C%22given%22%3A%22Samantha%22%7D%2C%7B%22family%22%3A%22Palinkas%22%2C%22given%22%3A%22Lawrence%20A.%22%7D%2C%7B%22family%22%3A%22Unger%22%2C%22given%22%3A%22Jennifer%20B.%22%7D%2C%7B%22family%22%3A%22Willgerodt%22%2C%22given%22%3A%22Mayumi%22%7D%2C%7B%22family%22%3A%22Crabtree%22%2C%22given%22%3A%22Benjamin%20F.%22%7D%2C%7B%22family%22%3A%22Tsui%22%2C%22given%22%3A%22Jennifer%22%7D%5D%2C%22accessed%22%3A%7B%22date-parts%22%3A%5B%5B%222024%22%2C4%2C12%5D%5D%7D%2C%22issued%22%3A%7B%22date-parts%22%3A%5B%5B%222023%22%2C8%5D%5D%7D%7D%7D%5D&quot; data-schema-version=&quot;8&quot;&gt;&lt;p&gt;&lt;span class=&quot;highlight&quot; data-annotation=&quot;%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F14052267%2Fitems%2F4F6G945C%22%2C%22pageLabel%22%3A%221%22%2C%22position%22%3A%7B%22pageIndex%22%3A0%2C%22rects%22%3A%5B%5B176.679%2C290.429%2C298.868%2C300.429%5D%2C%5B48.019%2C278.411%2C298.731%2C288.411%5D%2C%5B48.019%2C266.448%2C274.43%2C278.446%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F14052267%2Fitems%2FQUCHN3IT%22%5D%2C%22locator%22%3A%221%22%7D%7D&quot;&gt;“he Advisory Committee on Immunization Practices recommends routine HPV vaccination for adolescents ages 11–12 starting as early as age 9”&lt;/span&gt; &lt;span class=&quot;citation&quot; data-citation=&quot;%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F14052267%2Fitems%2FQUCHN3IT%22%5D%2C%22locator%22%3A%221%22%7D%5D%2C%22properties%22%3A%7B%7D%7D&quot;&gt;(&lt;span class=&quot;citation-item&quot;&gt;Shin et al., 2023, p. 1&lt;/span&gt;)&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_126">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Human Papillomavirus Vaccination Recommendations of the Advisory Committee on Immunization Practices (ACIP)</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.cdc.gov/mmwr/pdf/rr/rr6305.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-05-03 17:22:38</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_127">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PubMed entry</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.ncbi.nlm.nih.gov/pubmed/25167164</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-05-03 04:03:26</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_124">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1545-2093"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Blewett</foaf:surname>
+                        <foaf:givenName>Lynn A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Call</foaf:surname>
+                        <foaf:givenName>Kathleen Thiede</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Turner</foaf:surname>
+                        <foaf:givenName>Joanna</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hest</foaf:surname>
+                        <foaf:givenName>Robert</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_128"/>
+        <link:link rdf:resource="#item_129"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Humans</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>United States</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>data</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Data Collection</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>Datasource</dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Government Agencies</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Health Behavior</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Health Expenditures</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Health Services</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>health services research</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Health Services Research</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>household survey data</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Insurance Coverage</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Insurance, Health</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Patient Acceptance of Health Care</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>public health surveillance</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Research Design</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Data Resources for Conducting Health Services and Policy Research</dc:title>
+        <dcterms:abstract>Rich federal data resources provide essential data inputs for monitoring the health and health care of the US population and are essential for conducting health services policy research. The six household surveys we document in this article cover a broad array of health topics, including health insurance coverage (American Community Survey, Current Population Survey), health conditions and behaviors (National Health Interview Survey, Behavioral Risk Factor Surveillance System), health care utilization and spending (Medical Expenditure Panel Survey), and longitudinal data on public program participation (SIPP). New federal activities are linking federal surveys with administrative data to reduce duplication and response burden. In the private sector, vendors are aggregating data from medical records and claims to enhance our understanding of treatment, quality, and outcomes of medical care. Federal agencies must continue to innovate to meet the continuous challenges of scarce resources, pressures for more granular data, and new multimode data collection methodologies.</dcterms:abstract>
+        <dc:date>2018-04-01</dc:date>
+        <z:language>eng</z:language>
+        <z:libraryCatalog>PubMed</z:libraryCatalog>
+        <dc:description>PMID: 29272166
+PMCID: PMC5880724</dc:description>
+        <bib:pages>437-452</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1545-2093">
+        <prism:volume>39</prism:volume>
+        <dc:title>Annual Review of Public Health</dc:title>
+        <dc:identifier>DOI 10.1146/annurev-publhealth-040617-013544</dc:identifier>
+        <dcterms:alternative>Annu Rev Public Health</dcterms:alternative>
+        <dc:identifier>ISSN 1545-2093</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_128">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Accepted Version</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://europepmc.org/articles/pmc5880724?pdf=render</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-30 03:46:25</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_129">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PubMed entry</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.ncbi.nlm.nih.gov/pubmed/29272166</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-30 03:46:22</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.health.ny.gov/statistics/cancer/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_130"/>
+        <dc:subject>nysdohCancerData</dc:subject>
+        <dc:title>Cancer Data and Statistics</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.health.ny.gov/statistics/cancer/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-30 03:33:43</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_130">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Cancer Data and Statistics</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.health.ny.gov/statistics/cancer/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-30 03:33:52</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.health.ny.gov/prevention/immunization/schools/school_vaccines/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_132"/>
+        <dc:subject>nysVaxReq</dc:subject>
+        <dc:title>School Immunization Requirements</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.health.ny.gov/prevention/immunization/schools/school_vaccines/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-05-14 00:33:37</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_132">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>School Immunization Requirements</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.health.ny.gov/prevention/immunization/schools/school_vaccines/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-05-14 00:33:47</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1080/21645515.2018.1512453">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2164-5515"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hirth</foaf:surname>
+                        <foaf:givenName>Jacqueline</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_135"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>HPV vaccination</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>cancer</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>health disparities</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>primary cancer prevention</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Disparities in HPV vaccination rates and HPV prevalence in the United States: a review of the literature</dc:title>
+        <dcterms:abstract>Human papillomavirus (HPV) is a common sexually transmitted infection which is the cause of several cancers, including cervical cancer, and genital warts. Although cervical cancer can be prevented through screening, this cancer persists in the US. More recently, HPV vaccination has the potential to decrease the burden of HPV-related disease among young HPV-unexposed adolescents. Several initiatives aimed to encourage HPV vaccination have been adopted. Unfortunately, uptake of the HPV vaccine remains modest, despite evidence that vaccine-type HPV prevalence is decreasing as a result of HPV vaccination. Further, geographic disparities in vaccination uptake across different US regions and by race/ethnicity may contribute to continuing disparities in HPV-related cancers. More data are needed to evaluate impact of HPV vaccination on HPV prevalence in smaller geographic areas. Further, more information is needed on the impact of individual vaccination programs and policy on population level vaccination and HPV prevalence.</dcterms:abstract>
+        <dc:date>2019-01-02</dc:date>
+        <z:shortTitle>Disparities in HPV vaccination rates and HPV prevalence in the United States</z:shortTitle>
+        <z:libraryCatalog>Taylor and Francis+NEJM</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://doi.org/10.1080/21645515.2018.1512453</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-08-13 18:36:26</dcterms:dateSubmitted>
+        <dc:description>Publisher: Taylor &amp; Francis
+_eprint: https://doi.org/10.1080/21645515.2018.1512453
+PMID: 30148974</dc:description>
+        <bib:pages>146-155</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2164-5515">
+        <prism:volume>15</prism:volume>
+        <dc:title>Human Vaccines &amp; Immunotherapeutics</dc:title>
+        <dc:identifier>DOI 10.1080/21645515.2018.1512453</dc:identifier>
+        <prism:number>1</prism:number>
+        <dc:identifier>ISSN 2164-5515</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_135">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tandfonline.com/doi/pdf/10.1080/21645515.2018.1512453</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-08-13 18:36:28</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+</rdf:RDF>
